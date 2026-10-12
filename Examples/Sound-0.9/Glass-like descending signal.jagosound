@@ -1,0 +1,119 @@
+{
+  "format": "jagosound",
+  "version": 1,
+  "recipe": {
+    "type": "custom",
+    "seed": "glass-like-descending-signal",
+    "duration": 2,
+    "size": 0.5,
+    "tone": 0.5,
+    "texture": 0,
+    "rate": 0.5,
+    "space": 0.25,
+    "volume": 0.65,
+    "loop": false,
+    "surface": "wood",
+    "action": "both",
+    "normalize": true,
+    "variation": 0.35,
+    "distance": 0,
+    "resonance": 0.5,
+    "label": "Glass-like descending signal",
+    "ingredients": [
+      {
+        "id": "study-0",
+        "name": "Bell body",
+        "kind": "tone",
+        "enabled": true,
+        "offset": 0,
+        "duration": 1.8,
+        "level": 0.55,
+        "pan": 0,
+        "frequency": 880,
+        "wave": "sine",
+        "colour": "white",
+        "cutoff": 12000,
+        "filter": "lowpass",
+        "drive": 0,
+        "pitch": 0,
+        "volumeCurve": [
+          {
+            "x": 0,
+            "y": 0
+          },
+          {
+            "x": 0.005,
+            "y": 1
+          },
+          {
+            "x": 0.3,
+            "y": 0.2
+          },
+          {
+            "x": 1,
+            "y": 0
+          }
+        ],
+        "pitchCurve": [
+          {
+            "x": 0,
+            "y": 0.5
+          },
+          {
+            "x": 0.5,
+            "y": 0.45
+          },
+          {
+            "x": 1,
+            "y": 0.4
+          }
+        ]
+      },
+      {
+        "id": "study-1",
+        "name": "Overtone",
+        "kind": "tone",
+        "enabled": true,
+        "offset": 0,
+        "duration": 1.3,
+        "level": 0.2,
+        "pan": 0,
+        "frequency": 1760,
+        "wave": "sine",
+        "colour": "white",
+        "cutoff": 12000,
+        "filter": "lowpass",
+        "drive": 0,
+        "pitch": 0,
+        "volumeCurve": [
+          {
+            "x": 0,
+            "y": 0
+          },
+          {
+            "x": 0.01,
+            "y": 1
+          },
+          {
+            "x": 0.2,
+            "y": 0.18
+          },
+          {
+            "x": 1,
+            "y": 0
+          }
+        ],
+        "pitchCurve": [
+          {
+            "x": 0,
+            "y": 0.5
+          },
+          {
+            "x": 1,
+            "y": 0.5
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "format": "jagosound",
+  "version": 1,
+  "recipe": {
+    "type": "custom",
+    "seed": "layered-low-impact",
+    "duration": 1,
+    "size": 0.5,
+    "tone": 0.5,
+    "texture": 0,
+    "rate": 0.5,
+    "space": 0.12,
+    "volume": 0.65,
+    "loop": false,
+    "surface": "wood",
+    "action": "both",
+    "normalize": true,
+    "variation": 0.35,
+    "distance": 0,
+    "resonance": 0.5,
+    "label": "Layered low impact",
+    "ingredients": [
+      {
+        "id": "study-0",
+        "name": "Body",
+        "kind": "impulse",
+        "enabled": true,
+        "offset": 0,
+        "duration": 0.5,
+        "level": 0.7,
+        "pan": 0,
+        "frequency": 160,
+        "wave": "sine",
+        "colour": "white",
+        "cutoff": 12000,
+        "filter": "lowpass",
+        "drive": 0,
+        "pitch": 0,
+        "volumeCurve": [
+          {
+            "x": 0,
+            "y": 0
+          },
+          {
+            "x": 0.01,
+            "y": 1
+          },
+          {
+            "x": 0.2,
+            "y": 0.18
+          },
+          {
+            "x": 1,
+            "y": 0
+          }
+        ],
+        "pitchCurve": [
+          {
+            "x": 0,
+            "y": 0.5
+          },
+          {
+            "x": 1,
+            "y": 0.5
+          }
+        ]
+      },
+      {
+        "id": "study-1",
+        "name": "Texture",
+        "kind": "noise",
+        "enabled": true,
+        "offset": 0,
+        "duration": 0.45,
+        "level": 0.7,
+        "pan": 0,
+        "frequency": 220,
+        "wave": "sine",
+        "colour": "brown",
+        "cutoff": 1800,
+        "filter": "lowpass",
+        "drive": 0,
+        "pitch": 0,
+        "volumeCurve": [
+          {
+            "x": 0,
+            "y": 0
+          },
+          {
+            "x": 0.01,
+            "y": 1
+          },
+          {
+            "x": 0.2,
+            "y": 0.18
+          },
+          {
+            "x": 1,
+            "y": 0
+          }
+        ],
+        "pitchCurve": [
+          {
+            "x": 0,
+            "y": 0.5
+          },
+          {
+            "x": 1,
+            "y": 0.5
+          }
+        ]
+      },
+      {
+        "id": "study-2",
+        "name": "Contact",
+        "kind": "noise",
+        "enabled": true,
+        "offset": 0,
+        "duration": 0.08,
+        "level": 0.3,
+        "pan": 0,
+        "frequency": 220,
+        "wave": "sine",
+        "colour": "white",
+        "cutoff": 3000,
+        "filter": "highpass",
+        "drive": 0,
+        "pitch": 0,
+        "volumeCurve": [
+          {
+            "x": 0,
+            "y": 0
+          },
+          {
+            "x": 0.01,
+            "y": 1
+          },
+          {
+            "x": 0.2,
+            "y": 0.18
+          },
+          {
+            "x": 1,
+            "y": 0
+          }
+        ],
+        "pitchCurve": [
+          {
+            "x": 0,
+            "y": 0.5
+          },
+          {
+            "x": 1,
+            "y": 0.5
+          }
+        ]
+      }
+    ]
+  }
+}

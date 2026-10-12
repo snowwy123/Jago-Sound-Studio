@@ -1,0 +1,15 @@
+{
+  "ok": true,
+  "checks": [
+    "mood keep choice follows its named control",
+    "pace keep choice follows its named control",
+    "structure keep choice follows its named control",
+    "palette keep choice follows its named control",
+    "groove keep choice follows its named control",
+    "drums keep choice follows its named control",
+    "bass keep choice follows its named control",
+    "melody keep choice follows its named control",
+    "harmony keep choice follows its named control",
+    "details keep choice follows its named control"
+  ]
+}

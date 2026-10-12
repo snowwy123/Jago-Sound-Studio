@@ -1,0 +1,2395 @@
+{
+  "format": "jagomusic",
+  "version": 1,
+  "id": "96583ed5-3c10-43f8-94ae-4a19f8952f17",
+  "name": "Something in the shadows",
+  "seed": "jago-shadow-01",
+  "mood": "shadow",
+  "tempo": 76,
+  "key": 0,
+  "scale": "minor",
+  "energy": 0.55,
+  "busyness": 0.5,
+  "human": 0.18,
+  "loop": true,
+  "master": 0.8,
+  "room": 0.5,
+  "sections": [
+    {
+      "id": "part-a",
+      "name": "Opening",
+      "bars": 4,
+      "energy": 0.65
+    },
+    {
+      "id": "part-b",
+      "name": "Main idea",
+      "bars": 4,
+      "energy": 1
+    },
+    {
+      "id": "part-c",
+      "name": "A little change",
+      "bars": 4,
+      "energy": 0.85
+    },
+    {
+      "id": "part-d",
+      "name": "Return",
+      "bars": 4,
+      "energy": 1
+    }
+  ],
+  "tracks": [
+    {
+      "id": "voice-0",
+      "name": "Melody",
+      "role": "melody",
+      "instrument": "marimba",
+      "volume": 0.65,
+      "pan": 0,
+      "space": 0.28,
+      "brightness": 0.55,
+      "muted": false,
+      "solo": false,
+      "locked": false,
+      "patterns": {
+        "part-a": {
+          "bars": 4,
+          "notes": [
+            {
+              "id": "n-0",
+              "step": 0,
+              "pitch": 60,
+              "length": 3.5,
+              "velocity": 0.8190947156399488
+            },
+            {
+              "id": "n-1",
+              "step": 4,
+              "pitch": 63,
+              "length": 3.5,
+              "velocity": 0.8081281959917397
+            },
+            {
+              "id": "n-2",
+              "step": 6,
+              "pitch": 67,
+              "length": 3.5,
+              "velocity": 0.8376497914083302
+            },
+            {
+              "id": "n-3",
+              "step": 8,
+              "pitch": 63,
+              "length": 3.5,
+              "velocity": 0.8262711283564568
+            },
+            {
+              "id": "n-4",
+              "step": 12,
+              "pitch": 62,
+              "length": 3.5,
+              "velocity": 0.8119004330132157
+            },
+            {
+              "id": "n-5",
+              "step": 16,
+              "pitch": 75,
+              "length": 3.5,
+              "velocity": 0.7420420743897558
+            },
+            {
+              "id": "n-6",
+              "step": 24,
+              "pitch": 72,
+              "length": 3.5,
+              "velocity": 0.8258910446427763
+            },
+            {
+              "id": "n-7",
+              "step": 28,
+              "pitch": 75,
+              "length": 3.5,
+              "velocity": 0.7607559641450644
+            },
+            {
+              "id": "n-8",
+              "step": 32,
+              "pitch": 65,
+              "length": 3.5,
+              "velocity": 0.7259448381420225
+            },
+            {
+              "id": "n-9",
+              "step": 36,
+              "pitch": 68,
+              "length": 3.5,
+              "velocity": 0.779312657006085
+            },
+            {
+              "id": "n-10",
+              "step": 38,
+              "pitch": 72,
+              "length": 3.5,
+              "velocity": 0.7338048704154789
+            },
+            {
+              "id": "n-11",
+              "step": 40,
+              "pitch": 68,
+              "length": 3.5,
+              "velocity": 0.7239588199183346
+            },
+            {
+              "id": "n-12",
+              "step": 44,
+              "pitch": 67,
+              "length": 3.5,
+              "velocity": 0.8339692850410938
+            },
+            {
+              "id": "n-13",
+              "step": 48,
+              "pitch": 77,
+              "length": 3.5,
+              "velocity": 0.783926207497716
+            },
+            {
+              "id": "n-14",
+              "step": 52,
+              "pitch": 74,
+              "length": 3.5,
+              "velocity": 0.7580127012636513
+            },
+            {
+              "id": "n-15",
+              "step": 56,
+              "pitch": 74,
+              "length": 3.5,
+              "velocity": 0.7274095452670009
+            },
+            {
+              "id": "n-16",
+              "step": 60,
+              "pitch": 60,
+              "length": 3.5,
+              "velocity": 0.7599731919262559
+            }
+          ]
+        },
+        "part-b": {
+          "bars": 4,
+          "notes": [
+            {
+              "id": "n-0",
+              "step": 0,
+              "pitch": 60,
+              "length": 3.5,
+              "velocity": 0.8190947156399488
+            },
+            {
+              "id": "n-1",
+              "step": 4,
+              "pitch": 63,
+              "length": 3.5,
+              "velocity": 0.8081281959917397
+            },
+            {
+              "id": "n-2",
+              "step": 6,
+              "pitch": 67,
+              "length": 3.5,
+              "velocity": 0.8376497914083302
+            },
+            {
+              "id": "n-3",
+              "step": 8,
+              "pitch": 63,
+              "length": 3.5,
+              "velocity": 0.8262711283564568
+            },
+            {
+              "id": "n-4",
+              "step": 12,
+              "pitch": 62,
+              "length": 3.5,
+              "velocity": 0.8119004330132157
+            },
+            {
+              "id": "n-5",
+              "step": 16,
+              "pitch": 75,
+              "length": 3.5,
+              "velocity": 0.7420420743897558
+            },
+            {
+              "id": "n-6",
+              "step": 24,
+              "pitch": 72,
+              "length": 3.5,
+              "velocity": 0.8258910446427763
+            },
+            {
+              "id": "n-7",
+              "step": 28,
+              "pitch": 75,
+              "length": 3.5,
+              "velocity": 0.7607559641450644
+            },
+            {
+              "id": "n-8",
+              "step": 32,
+              "pitch": 65,
+              "length": 3.5,
+              "velocity": 0.7259448381420225
+            },
+            {
+              "id": "n-9",
+              "step": 36,
+              "pitch": 68,
+              "length": 3.5,
+              "velocity": 0.779312657006085
+            },
+            {
+              "id": "n-10",
+              "step": 38,
+              "pitch": 72,
+              "length": 3.5,
+              "velocity": 0.7338048704154789
+            },
+            {
+              "id": "n-11",
+              "step": 40,
+              "pitch": 68,
+              "length": 3.5,
+              "velocity": 0.7239588199183346
+            },
+            {
+              "id": "n-12",
+              "step": 44,
+              "pitch": 67,
+              "length": 3.5,
+              "velocity": 0.8339692850410938
+            },
+            {
+              "id": "n-13",
+              "step": 48,
+              "pitch": 77,
+              "length": 3.5,
+              "velocity": 0.783926207497716
+            },
+            {
+              "id": "n-14",
+              "step": 52,
+              "pitch": 74,
+              "length": 3.5,
+              "velocity": 0.7580127012636513
+            },
+            {
+              "id": "n-15",
+              "step": 56,
+              "pitch": 74,
+              "length": 3.5,
+              "velocity": 0.7274095452670009
+            },
+            {
+              "id": "n-16",
+              "step": 60,
+              "pitch": 60,
+              "length": 3.5,
+              "velocity": 0.7599731919262559
+            }
+          ]
+        },
+        "part-c": {
+          "bars": 4,
+          "notes": [
+            {
+              "id": "n-0",
+              "step": 0,
+              "pitch": 70,
+              "length": 3.5,
+              "velocity": 0.8190947156399488
+            },
+            {
+              "id": "n-1",
+              "step": 4,
+              "pitch": 72,
+              "length": 3.5,
+              "velocity": 0.8081281959917397
+            },
+            {
+              "id": "n-2",
+              "step": 6,
+              "pitch": 77,
+              "length": 3.5,
+              "velocity": 0.8376497914083302
+            },
+            {
+              "id": "n-3",
+              "step": 8,
+              "pitch": 72,
+              "length": 3.5,
+              "velocity": 0.8262711283564568
+            },
+            {
+              "id": "n-4",
+              "step": 12,
+              "pitch": 70,
+              "length": 3.5,
+              "velocity": 0.8119004330132157
+            },
+            {
+              "id": "n-5",
+              "step": 16,
+              "pitch": 74,
+              "length": 3.5,
+              "velocity": 0.7420420743897558
+            },
+            {
+              "id": "n-6",
+              "step": 24,
+              "pitch": 67,
+              "length": 3.5,
+              "velocity": 0.8258910446427763
+            },
+            {
+              "id": "n-7",
+              "step": 28,
+              "pitch": 72,
+              "length": 3.5,
+              "velocity": 0.7607559641450644
+            },
+            {
+              "id": "n-8",
+              "step": 32,
+              "pitch": 72,
+              "length": 3.5,
+              "velocity": 0.7259448381420225
+            },
+            {
+              "id": "n-9",
+              "step": 36,
+              "pitch": 74,
+              "length": 3.5,
+              "velocity": 0.779312657006085
+            },
+            {
+              "id": "n-10",
+              "step": 38,
+              "pitch": 79,
+              "length": 3.5,
+              "velocity": 0.7338048704154789
+            },
+            {
+              "id": "n-11",
+              "step": 40,
+              "pitch": 74,
+              "length": 3.5,
+              "velocity": 0.7239588199183346
+            },
+            {
+              "id": "n-12",
+              "step": 44,
+              "pitch": 72,
+              "length": 3.5,
+              "velocity": 0.8339692850410938
+            },
+            {
+              "id": "n-13",
+              "step": 48,
+              "pitch": 68,
+              "length": 3.5,
+              "velocity": 0.783926207497716
+            },
+            {
+              "id": "n-14",
+              "step": 52,
+              "pitch": 63,
+              "length": 3.5,
+              "velocity": 0.7580127012636513
+            },
+            {
+              "id": "n-15",
+              "step": 56,
+              "pitch": 62,
+              "length": 3.5,
+              "velocity": 0.7274095452670009
+            },
+            {
+              "id": "n-16",
+              "step": 60,
+              "pitch": 60,
+              "length": 3.5,
+              "velocity": 0.7599731919262559
+            }
+          ]
+        },
+        "part-d": {
+          "bars": 4,
+          "notes": [
+            {
+              "id": "n-0",
+              "step": 0,
+              "pitch": 60,
+              "length": 3.5,
+              "velocity": 0.8190947156399488
+            },
+            {
+              "id": "n-1",
+              "step": 4,
+              "pitch": 63,
+              "length": 3.5,
+              "velocity": 0.8081281959917397
+            },
+            {
+              "id": "n-2",
+              "step": 6,
+              "pitch": 67,
+              "length": 3.5,
+              "velocity": 0.8376497914083302
+            },
+            {
+              "id": "n-3",
+              "step": 8,
+              "pitch": 63,
+              "length": 3.5,
+              "velocity": 0.8262711283564568
+            },
+            {
+              "id": "n-4",
+              "step": 12,
+              "pitch": 62,
+              "length": 3.5,
+              "velocity": 0.8119004330132157
+            },
+            {
+              "id": "n-5",
+              "step": 16,
+              "pitch": 75,
+              "length": 3.5,
+              "velocity": 0.7420420743897558
+            },
+            {
+              "id": "n-6",
+              "step": 24,
+              "pitch": 72,
+              "length": 3.5,
+              "velocity": 0.8258910446427763
+            },
+            {
+              "id": "n-7",
+              "step": 28,
+              "pitch": 75,
+              "length": 3.5,
+              "velocity": 0.7607559641450644
+            },
+            {
+              "id": "n-8",
+              "step": 32,
+              "pitch": 65,
+              "length": 3.5,
+              "velocity": 0.7259448381420225
+            },
+            {
+              "id": "n-9",
+              "step": 36,
+              "pitch": 68,
+              "length": 3.5,
+              "velocity": 0.779312657006085
+            },
+            {
+              "id": "n-10",
+              "step": 38,
+              "pitch": 72,
+              "length": 3.5,
+              "velocity": 0.7338048704154789
+            },
+            {
+              "id": "n-11",
+              "step": 40,
+              "pitch": 68,
+              "length": 3.5,
+              "velocity": 0.7239588199183346
+            },
+            {
+              "id": "n-12",
+              "step": 44,
+              "pitch": 67,
+              "length": 3.5,
+              "velocity": 0.8339692850410938
+            },
+            {
+              "id": "n-13",
+              "step": 48,
+              "pitch": 77,
+              "length": 3.5,
+              "velocity": 0.783926207497716
+            },
+            {
+              "id": "n-14",
+              "step": 52,
+              "pitch": 74,
+              "length": 3.5,
+              "velocity": 0.7580127012636513
+            },
+            {
+              "id": "n-15",
+              "step": 56,
+              "pitch": 74,
+              "length": 3.5,
+              "velocity": 0.7274095452670009
+            },
+            {
+              "id": "n-16",
+              "step": 60,
+              "pitch": 60,
+              "length": 3.5,
+              "velocity": 0.7599731919262559
+            }
+          ]
+        }
+      },
+      "enabled": {
+        "part-a": true,
+        "part-b": true,
+        "part-c": true,
+        "part-d": true
+      }
+    },
+    {
+      "id": "voice-1",
+      "name": "Harmony",
+      "role": "harmony",
+      "instrument": "choir",
+      "volume": 0.42,
+      "pan": -0.15,
+      "space": 0.28,
+      "brightness": 0.55,
+      "muted": false,
+      "solo": false,
+      "locked": false,
+      "patterns": {
+        "part-a": {
+          "bars": 4,
+          "notes": [
+            {
+              "id": "n-0",
+              "step": 0,
+              "pitch": 48,
+              "length": 15.5,
+              "velocity": 0.2
+            },
+            {
+              "id": "n-1",
+              "step": 0,
+              "pitch": 51,
+              "length": 15.5,
+              "velocity": 0.2
+            },
+            {
+              "id": "n-2",
+              "step": 0,
+              "pitch": 55,
+              "length": 15.5,
+              "velocity": 0.22730528610125186
+            },
+            {
+              "id": "n-3",
+              "step": 16,
+              "pitch": 56,
+              "length": 15.5,
+              "velocity": 0.23983217676468196
+            },
+            {
+              "id": "n-4",
+              "step": 16,
+              "pitch": 60,
+              "length": 15.5,
+              "velocity": 0.21243032188452782
+            },
+            {
+              "id": "n-5",
+              "step": 16,
+              "pitch": 63,
+              "length": 15.5,
+              "velocity": 0.25007668117359283
+            },
+            {
+              "id": "n-6",
+              "step": 32,
+              "pitch": 53,
+              "length": 15.5,
+              "velocity": 0.2
+            },
+            {
+              "id": "n-7",
+              "step": 32,
+              "pitch": 56,
+              "length": 15.5,
+              "velocity": 0.2
+            },
+            {
+              "id": "n-8",
+              "step": 32,
+              "pitch": 60,
+              "length": 15.5,
+              "velocity": 0.24593247543387117
+            },
+            {
+              "id": "n-9",
+              "step": 48,
+              "pitch": 58,
+              "length": 15.5,
+              "velocity": 0.2063111220236868
+            },
+            {
+              "id": "n-10",
+              "step": 48,
+              "pitch": 62,
+              "length": 15.5,
+              "velocity": 0.23796511316969993
+            },
+            {
+              "id": "n-11",
+              "step": 48,
+              "pitch": 65,
+              "length": 15.5,
+              "velocity": 0.2460994682863355
+            }
+          ]
+        },
+        "part-b": {
+          "bars": 4,
+          "notes": [
+            {
+              "id": "n-0",
+              "step": 0,
+              "pitch": 48,
+              "length": 15.5,
+              "velocity": 0.29192166562937205
+            },
+            {
+              "id": "n-1",
+              "step": 0,
+              "pitch": 51,
+              "length": 15.5,
+              "velocity": 0.2798047346603126
+            },
+            {
+              "id": "n-2",
+              "step": 0,
+              "pitch": 55,
+              "length": 15.5,
+              "velocity": 0.3312552861012519
+            },
+            {
+              "id": "n-3",
+              "step": 16,
+              "pitch": 56,
+              "length": 15.5,
+              "velocity": 0.343782176764682
+            },
+            {
+              "id": "n-4",
+              "step": 16,
+              "pitch": 60,
+              "length": 15.5,
+              "velocity": 0.31638032188452786
+            },
+            {
+              "id": "n-5",
+              "step": 16,
+              "pitch": 63,
+              "length": 15.5,
+              "velocity": 0.3540266811735928
+            },
+            {
+              "id": "n-6",
+              "step": 32,
+              "pitch": 53,
+              "length": 15.5,
+              "velocity": 0.2739397940766067
+            },
+            {
+              "id": "n-7",
+              "step": 32,
+              "pitch": 56,
+              "length": 15.5,
+              "velocity": 0.29011126529239123
+            },
+            {
+              "id": "n-8",
+              "step": 32,
+              "pitch": 60,
+              "length": 15.5,
+              "velocity": 0.3498824754338712
+            },
+            {
+              "id": "n-9",
+              "step": 48,
+              "pitch": 58,
+              "length": 15.5,
+              "velocity": 0.31026112202368683
+            },
+            {
+              "id": "n-10",
+              "step": 48,
+              "pitch": 62,
+              "length": 15.5,
+              "velocity": 0.34191511316969997
+            },
+            {
+              "id": "n-11",
+              "step": 48,
+              "pitch": 65,
+              "length": 15.5,
+              "velocity": 0.3500494682863355
+            }
+          ]
+        },
+        "part-c": {
+          "bars": 4,
+          "notes": [
+            {
+              "id": "n-0",
+              "step": 0,
+              "pitch": 56,
+              "length": 15.5,
+              "velocity": 0.24737166562937202
+            },
+            {
+              "id": "n-1",
+              "step": 0,
+              "pitch": 60,
+              "length": 15.5,
+              "velocity": 0.23525473466031255
+            },
+            {
+              "id": "n-2",
+              "step": 0,
+              "pitch": 63,
+              "length": 15.5,
+              "velocity": 0.28670528610125184
+            },
+            {
+              "id": "n-3",
+              "step": 16,
+              "pitch": 53,
+              "length": 15.5,
+              "velocity": 0.29923217676468195
+            },
+            {
+              "id": "n-4",
+              "step": 16,
+              "pitch": 56,
+              "length": 15.5,
+              "velocity": 0.2718303218845278
+            },
+            {
+              "id": "n-5",
+              "step": 16,
+              "pitch": 60,
+              "length": 15.5,
+              "velocity": 0.30947668117359284
+            },
+            {
+              "id": "n-6",
+              "step": 32,
+              "pitch": 58,
+              "length": 15.5,
+              "velocity": 0.22938979407660665
+            },
+            {
+              "id": "n-7",
+              "step": 32,
+              "pitch": 62,
+              "length": 15.5,
+              "velocity": 0.2455612652923912
+            },
+            {
+              "id": "n-8",
+              "step": 32,
+              "pitch": 65,
+              "length": 15.5,
+              "velocity": 0.30533247543387115
+            },
+            {
+              "id": "n-9",
+              "step": 48,
+              "pitch": 48,
+              "length": 15.5,
+              "velocity": 0.2657111220236868
+            },
+            {
+              "id": "n-10",
+              "step": 48,
+              "pitch": 51,
+              "length": 15.5,
+              "velocity": 0.29736511316969994
+            },
+            {
+              "id": "n-11",
+              "step": 48,
+              "pitch": 55,
+              "length": 15.5,
+              "velocity": 0.30549946828633545
+            }
+          ]
+        },
+        "part-d": {
+          "bars": 4,
+          "notes": [
+            {
+              "id": "n-0",
+              "step": 0,
+              "pitch": 48,
+              "length": 15.5,
+              "velocity": 0.29192166562937205
+            },
+            {
+              "id": "n-1",
+              "step": 0,
+              "pitch": 51,
+              "length": 15.5,
+              "velocity": 0.2798047346603126
+            },
+            {
+              "id": "n-2",
+              "step": 0,
+              "pitch": 55,
+              "length": 15.5,
+              "velocity": 0.3312552861012519
+            },
+            {
+              "id": "n-3",
+              "step": 16,
+              "pitch": 56,
+              "length": 15.5,
+              "velocity": 0.343782176764682
+            },
+            {
+              "id": "n-4",
+              "step": 16,
+              "pitch": 60,
+              "length": 15.5,
+              "velocity": 0.31638032188452786
+            },
+            {
+              "id": "n-5",
+              "step": 16,
+              "pitch": 63,
+              "length": 15.5,
+              "velocity": 0.3540266811735928
+            },
+            {
+              "id": "n-6",
+              "step": 32,
+              "pitch": 53,
+              "length": 15.5,
+              "velocity": 0.2739397940766067
+            },
+            {
+              "id": "n-7",
+              "step": 32,
+              "pitch": 56,
+              "length": 15.5,
+              "velocity": 0.29011126529239123
+            },
+            {
+              "id": "n-8",
+              "step": 32,
+              "pitch": 60,
+              "length": 15.5,
+              "velocity": 0.3498824754338712
+            },
+            {
+              "id": "n-9",
+              "step": 48,
+              "pitch": 58,
+              "length": 15.5,
+              "velocity": 0.31026112202368683
+            },
+            {
+              "id": "n-10",
+              "step": 48,
+              "pitch": 62,
+              "length": 15.5,
+              "velocity": 0.34191511316969997
+            },
+            {
+              "id": "n-11",
+              "step": 48,
+              "pitch": 65,
+              "length": 15.5,
+              "velocity": 0.3500494682863355
+            }
+          ]
+        }
+      },
+      "enabled": {
+        "part-a": true,
+        "part-b": true,
+        "part-c": true,
+        "part-d": true
+      }
+    },
+    {
+      "id": "voice-2",
+      "name": "Foundation",
+      "role": "bass",
+      "instrument": "sub",
+      "volume": 0.6,
+      "pan": 0,
+      "space": 0.05,
+      "brightness": 0.55,
+      "muted": false,
+      "solo": false,
+      "locked": false,
+      "patterns": {
+        "part-a": {
+          "bars": 4,
+          "notes": [
+            {
+              "id": "n-0",
+              "step": 0,
+              "pitch": 36,
+              "length": 11.5,
+              "velocity": 0.7936334719974548
+            },
+            {
+              "id": "n-1",
+              "step": 16,
+              "pitch": 44,
+              "length": 11.5,
+              "velocity": 0.8487294983398169
+            },
+            {
+              "id": "n-2",
+              "step": 32,
+              "pitch": 41,
+              "length": 11.5,
+              "velocity": 0.8046076998673379
+            },
+            {
+              "id": "n-3",
+              "step": 48,
+              "pitch": 46,
+              "length": 11.5,
+              "velocity": 0.8170461985841394
+            }
+          ]
+        },
+        "part-b": {
+          "bars": 4,
+          "notes": [
+            {
+              "id": "n-0",
+              "step": 0,
+              "pitch": 36,
+              "length": 11.5,
+              "velocity": 0.7936334719974548
+            },
+            {
+              "id": "n-1",
+              "step": 16,
+              "pitch": 44,
+              "length": 11.5,
+              "velocity": 0.8487294983398169
+            },
+            {
+              "id": "n-2",
+              "step": 32,
+              "pitch": 41,
+              "length": 11.5,
+              "velocity": 0.8046076998673379
+            },
+            {
+              "id": "n-3",
+              "step": 48,
+              "pitch": 46,
+              "length": 11.5,
+              "velocity": 0.8170461985841394
+            }
+          ]
+        },
+        "part-c": {
+          "bars": 4,
+          "notes": [
+            {
+              "id": "n-0",
+              "step": 0,
+              "pitch": 44,
+              "length": 11.5,
+              "velocity": 0.7936334719974548
+            },
+            {
+              "id": "n-1",
+              "step": 16,
+              "pitch": 41,
+              "length": 11.5,
+              "velocity": 0.8487294983398169
+            },
+            {
+              "id": "n-2",
+              "step": 32,
+              "pitch": 46,
+              "length": 11.5,
+              "velocity": 0.8046076998673379
+            },
+            {
+              "id": "n-3",
+              "step": 48,
+              "pitch": 36,
+              "length": 11.5,
+              "velocity": 0.8170461985841394
+            }
+          ]
+        },
+        "part-d": {
+          "bars": 4,
+          "notes": [
+            {
+              "id": "n-0",
+              "step": 0,
+              "pitch": 36,
+              "length": 11.5,
+              "velocity": 0.7936334719974548
+            },
+            {
+              "id": "n-1",
+              "step": 16,
+              "pitch": 44,
+              "length": 11.5,
+              "velocity": 0.8487294983398169
+            },
+            {
+              "id": "n-2",
+              "step": 32,
+              "pitch": 41,
+              "length": 11.5,
+              "velocity": 0.8046076998673379
+            },
+            {
+              "id": "n-3",
+              "step": 48,
+              "pitch": 46,
+              "length": 11.5,
+              "velocity": 0.8170461985841394
+            }
+          ]
+        }
+      },
+      "enabled": {
+        "part-a": true,
+        "part-b": true,
+        "part-c": true,
+        "part-d": true
+      }
+    },
+    {
+      "id": "voice-3",
+      "name": "Little details",
+      "role": "texture",
+      "instrument": "synth",
+      "volume": 0.65,
+      "pan": 0.22,
+      "space": 0.28,
+      "brightness": 0.55,
+      "muted": false,
+      "solo": false,
+      "locked": false,
+      "patterns": {
+        "part-a": {
+          "bars": 4,
+          "notes": [
+            {
+              "id": "n-0",
+              "step": 0,
+              "pitch": 60,
+              "length": 2.8,
+              "velocity": 0.47422070858068766
+            },
+            {
+              "id": "n-1",
+              "step": 8,
+              "pitch": 63,
+              "length": 2.8,
+              "velocity": 0.42350654169917107
+            },
+            {
+              "id": "n-2",
+              "step": 16,
+              "pitch": 68,
+              "length": 2.8,
+              "velocity": 0.4494930432457477
+            },
+            {
+              "id": "n-3",
+              "step": 24,
+              "pitch": 72,
+              "length": 2.8,
+              "velocity": 0.4639880629442632
+            },
+            {
+              "id": "n-4",
+              "step": 32,
+              "pitch": 65,
+              "length": 2.8,
+              "velocity": 0.3749952267576009
+            },
+            {
+              "id": "n-5",
+              "step": 40,
+              "pitch": 68,
+              "length": 2.8,
+              "velocity": 0.42809078372083603
+            },
+            {
+              "id": "n-6",
+              "step": 48,
+              "pitch": 70,
+              "length": 2.8,
+              "velocity": 0.3978331927768886
+            },
+            {
+              "id": "n-7",
+              "step": 56,
+              "pitch": 74,
+              "length": 2.8,
+              "velocity": 0.44247507537715136
+            }
+          ]
+        },
+        "part-b": {
+          "bars": 4,
+          "notes": [
+            {
+              "id": "n-0",
+              "step": 0,
+              "pitch": 60,
+              "length": 2.8,
+              "velocity": 0.47422070858068766
+            },
+            {
+              "id": "n-1",
+              "step": 4,
+              "pitch": 63,
+              "length": 2.8,
+              "velocity": 0.42350654169917107
+            },
+            {
+              "id": "n-2",
+              "step": 8,
+              "pitch": 67,
+              "length": 2.8,
+              "velocity": 0.4494930432457477
+            },
+            {
+              "id": "n-3",
+              "step": 12,
+              "pitch": 63,
+              "length": 2.8,
+              "velocity": 0.4639880629442632
+            },
+            {
+              "id": "n-4",
+              "step": 16,
+              "pitch": 68,
+              "length": 2.8,
+              "velocity": 0.3749952267576009
+            },
+            {
+              "id": "n-5",
+              "step": 20,
+              "pitch": 72,
+              "length": 2.8,
+              "velocity": 0.42809078372083603
+            },
+            {
+              "id": "n-6",
+              "step": 24,
+              "pitch": 75,
+              "length": 2.8,
+              "velocity": 0.3978331927768886
+            },
+            {
+              "id": "n-7",
+              "step": 28,
+              "pitch": 72,
+              "length": 2.8,
+              "velocity": 0.44247507537715136
+            },
+            {
+              "id": "n-8",
+              "step": 32,
+              "pitch": 65,
+              "length": 2.8,
+              "velocity": 0.41553268049843606
+            },
+            {
+              "id": "n-9",
+              "step": 36,
+              "pitch": 68,
+              "length": 2.8,
+              "velocity": 0.39886386402882634
+            },
+            {
+              "id": "n-10",
+              "step": 40,
+              "pitch": 72,
+              "length": 2.8,
+              "velocity": 0.4104061837121844
+            },
+            {
+              "id": "n-11",
+              "step": 44,
+              "pitch": 68,
+              "length": 2.8,
+              "velocity": 0.43707751628011465
+            },
+            {
+              "id": "n-12",
+              "step": 48,
+              "pitch": 70,
+              "length": 2.8,
+              "velocity": 0.3832662161439657
+            },
+            {
+              "id": "n-13",
+              "step": 52,
+              "pitch": 74,
+              "length": 2.8,
+              "velocity": 0.3718974165525287
+            },
+            {
+              "id": "n-14",
+              "step": 56,
+              "pitch": 77,
+              "length": 2.8,
+              "velocity": 0.40704300066456195
+            },
+            {
+              "id": "n-15",
+              "step": 60,
+              "pitch": 74,
+              "length": 2.8,
+              "velocity": 0.37818661361932754
+            },
+            {
+              "id": "n-16",
+              "step": 63,
+              "pitch": 62,
+              "length": 0.8,
+              "velocity": 0.36007772917859254
+            }
+          ]
+        },
+        "part-c": {
+          "bars": 4,
+          "notes": [
+            {
+              "id": "n-0",
+              "step": 0,
+              "pitch": 68,
+              "length": 2.8,
+              "velocity": 0.47422070858068766
+            },
+            {
+              "id": "n-1",
+              "step": 8,
+              "pitch": 72,
+              "length": 2.8,
+              "velocity": 0.42350654169917107
+            },
+            {
+              "id": "n-2",
+              "step": 16,
+              "pitch": 65,
+              "length": 2.8,
+              "velocity": 0.4494930432457477
+            },
+            {
+              "id": "n-3",
+              "step": 24,
+              "pitch": 68,
+              "length": 2.8,
+              "velocity": 0.4639880629442632
+            },
+            {
+              "id": "n-4",
+              "step": 32,
+              "pitch": 70,
+              "length": 2.8,
+              "velocity": 0.3749952267576009
+            },
+            {
+              "id": "n-5",
+              "step": 40,
+              "pitch": 74,
+              "length": 2.8,
+              "velocity": 0.42809078372083603
+            },
+            {
+              "id": "n-6",
+              "step": 48,
+              "pitch": 60,
+              "length": 2.8,
+              "velocity": 0.3978331927768886
+            },
+            {
+              "id": "n-7",
+              "step": 56,
+              "pitch": 63,
+              "length": 2.8,
+              "velocity": 0.44247507537715136
+            },
+            {
+              "id": "n-8",
+              "step": 63,
+              "pitch": 62,
+              "length": 0.8,
+              "velocity": 0.34553268049843605
+            }
+          ]
+        },
+        "part-d": {
+          "bars": 4,
+          "notes": [
+            {
+              "id": "n-0",
+              "step": 0,
+              "pitch": 60,
+              "length": 2.8,
+              "velocity": 0.47422070858068766
+            },
+            {
+              "id": "n-1",
+              "step": 4,
+              "pitch": 63,
+              "length": 2.8,
+              "velocity": 0.42350654169917107
+            },
+            {
+              "id": "n-2",
+              "step": 8,
+              "pitch": 67,
+              "length": 2.8,
+              "velocity": 0.4494930432457477
+            },
+            {
+              "id": "n-3",
+              "step": 12,
+              "pitch": 63,
+              "length": 2.8,
+              "velocity": 0.4639880629442632
+            },
+            {
+              "id": "n-4",
+              "step": 16,
+              "pitch": 68,
+              "length": 2.8,
+              "velocity": 0.3749952267576009
+            },
+            {
+              "id": "n-5",
+              "step": 20,
+              "pitch": 72,
+              "length": 2.8,
+              "velocity": 0.42809078372083603
+            },
+            {
+              "id": "n-6",
+              "step": 24,
+              "pitch": 75,
+              "length": 2.8,
+              "velocity": 0.3978331927768886
+            },
+            {
+              "id": "n-7",
+              "step": 28,
+              "pitch": 72,
+              "length": 2.8,
+              "velocity": 0.44247507537715136
+            },
+            {
+              "id": "n-8",
+              "step": 32,
+              "pitch": 65,
+              "length": 2.8,
+              "velocity": 0.41553268049843606
+            },
+            {
+              "id": "n-9",
+              "step": 36,
+              "pitch": 68,
+              "length": 2.8,
+              "velocity": 0.39886386402882634
+            },
+            {
+              "id": "n-10",
+              "step": 40,
+              "pitch": 72,
+              "length": 2.8,
+              "velocity": 0.4104061837121844
+            },
+            {
+              "id": "n-11",
+              "step": 44,
+              "pitch": 68,
+              "length": 2.8,
+              "velocity": 0.43707751628011465
+            },
+            {
+              "id": "n-12",
+              "step": 48,
+              "pitch": 70,
+              "length": 2.8,
+              "velocity": 0.3832662161439657
+            },
+            {
+              "id": "n-13",
+              "step": 52,
+              "pitch": 74,
+              "length": 2.8,
+              "velocity": 0.3718974165525287
+            },
+            {
+              "id": "n-14",
+              "step": 56,
+              "pitch": 77,
+              "length": 2.8,
+              "velocity": 0.40704300066456195
+            },
+            {
+              "id": "n-15",
+              "step": 60,
+              "pitch": 74,
+              "length": 2.8,
+              "velocity": 0.37818661361932754
+            },
+            {
+              "id": "n-16",
+              "step": 63,
+              "pitch": 62,
+              "length": 0.8,
+              "velocity": 0.36007772917859254
+            }
+          ]
+        }
+      },
+      "enabled": {
+        "part-a": false,
+        "part-b": true,
+        "part-c": true,
+        "part-d": true
+      }
+    },
+    {
+      "id": "voice-4",
+      "name": "Rhythm",
+      "role": "rhythm",
+      "instrument": "drums",
+      "volume": 0.48,
+      "pan": 0,
+      "space": 0.05,
+      "brightness": 0.55,
+      "muted": false,
+      "solo": false,
+      "locked": false,
+      "patterns": {
+        "part-a": {
+          "bars": 4,
+          "notes": [
+            {
+              "id": "n-0",
+              "step": 0,
+              "pitch": 36,
+              "length": 0.8,
+              "velocity": 0.8104086952935904
+            },
+            {
+              "id": "n-1",
+              "step": 8,
+              "pitch": 36,
+              "length": 0.8,
+              "velocity": 0.8733202652540057
+            },
+            {
+              "id": "n-2",
+              "step": 4,
+              "pitch": 38,
+              "length": 0.6,
+              "velocity": 0.6900168069824576
+            },
+            {
+              "id": "n-3",
+              "step": 12,
+              "pitch": 38,
+              "length": 0.6,
+              "velocity": 0.6219796141609549
+            },
+            {
+              "id": "n-4",
+              "step": 4,
+              "pitch": 42,
+              "length": 0.3,
+              "velocity": 0.40140182755887505
+            },
+            {
+              "id": "n-5",
+              "step": 8,
+              "pitch": 42,
+              "length": 0.3,
+              "velocity": 0.4299303360376507
+            },
+            {
+              "id": "n-6",
+              "step": 12,
+              "pitch": 42,
+              "length": 0.3,
+              "velocity": 0.39806916179135443
+            },
+            {
+              "id": "n-7",
+              "step": 16,
+              "pitch": 36,
+              "length": 0.8,
+              "velocity": 0.7975557263288646
+            },
+            {
+              "id": "n-8",
+              "step": 24,
+              "pitch": 36,
+              "length": 0.8,
+              "velocity": 0.8701214446220547
+            },
+            {
+              "id": "n-9",
+              "step": 20,
+              "pitch": 38,
+              "length": 0.6,
+              "velocity": 0.5812250158749521
+            },
+            {
+              "id": "n-10",
+              "step": 28,
+              "pitch": 38,
+              "length": 0.6,
+              "velocity": 0.6473001117818058
+            },
+            {
+              "id": "n-11",
+              "step": 20,
+              "pitch": 42,
+              "length": 0.3,
+              "velocity": 0.4457495643943548
+            },
+            {
+              "id": "n-12",
+              "step": 24,
+              "pitch": 42,
+              "length": 0.3,
+              "velocity": 0.4465266487095505
+            },
+            {
+              "id": "n-13",
+              "step": 28,
+              "pitch": 42,
+              "length": 0.3,
+              "velocity": 0.4526663032080978
+            },
+            {
+              "id": "n-14",
+              "step": 32,
+              "pitch": 36,
+              "length": 0.8,
+              "velocity": 0.859446312924847
+            },
+            {
+              "id": "n-15",
+              "step": 40,
+              "pitch": 36,
+              "length": 0.8,
+              "velocity": 0.8835260980762542
+            },
+            {
+              "id": "n-16",
+              "step": 36,
+              "pitch": 38,
+              "length": 0.6,
+              "velocity": 0.6292495777737349
+            },
+            {
+              "id": "n-17",
+              "step": 44,
+              "pitch": 38,
+              "length": 0.6,
+              "velocity": 0.6269197641126811
+            },
+            {
+              "id": "n-18",
+              "step": 36,
+              "pitch": 42,
+              "length": 0.3,
+              "velocity": 0.37578716428019104
+            },
+            {
+              "id": "n-19",
+              "step": 40,
+              "pitch": 42,
+              "length": 0.3,
+              "velocity": 0.3772330106142908
+            },
+            {
+              "id": "n-20",
+              "step": 44,
+              "pitch": 42,
+              "length": 0.3,
+              "velocity": 0.47267872327007354
+            },
+            {
+              "id": "n-21",
+              "step": 48,
+              "pitch": 36,
+              "length": 0.8,
+              "velocity": 0.8879707642830909
+            },
+            {
+              "id": "n-22",
+              "step": 56,
+              "pitch": 36,
+              "length": 0.8,
+              "velocity": 0.832229998651892
+            },
+            {
+              "id": "n-23",
+              "step": 52,
+              "pitch": 38,
+              "length": 0.6,
+              "velocity": 0.643506479645148
+            },
+            {
+              "id": "n-24",
+              "step": 60,
+              "pitch": 38,
+              "length": 0.6,
+              "velocity": 0.677291266778484
+            },
+            {
+              "id": "n-25",
+              "step": 52,
+              "pitch": 42,
+              "length": 0.3,
+              "velocity": 0.3931516169942915
+            },
+            {
+              "id": "n-26",
+              "step": 56,
+              "pitch": 42,
+              "length": 0.3,
+              "velocity": 0.376467603072524
+            },
+            {
+              "id": "n-27",
+              "step": 60,
+              "pitch": 42,
+              "length": 0.3,
+              "velocity": 0.367351779313758
+            }
+          ]
+        },
+        "part-b": {
+          "bars": 4,
+          "notes": [
+            {
+              "id": "n-0",
+              "step": 0,
+              "pitch": 49,
+              "length": 3,
+              "velocity": 0.36040869529359043
+            },
+            {
+              "id": "n-1",
+              "step": 0,
+              "pitch": 36,
+              "length": 0.8,
+              "velocity": 0.8733202652540057
+            },
+            {
+              "id": "n-2",
+              "step": 8,
+              "pitch": 36,
+              "length": 0.8,
+              "velocity": 0.9000168069824576
+            },
+            {
+              "id": "n-3",
+              "step": 4,
+              "pitch": 38,
+              "length": 0.6,
+              "velocity": 0.6219796141609549
+            },
+            {
+              "id": "n-4",
+              "step": 12,
+              "pitch": 38,
+              "length": 0.6,
+              "velocity": 0.6214018275588751
+            },
+            {
+              "id": "n-5",
+              "step": 4,
+              "pitch": 42,
+              "length": 0.3,
+              "velocity": 0.4299303360376507
+            },
+            {
+              "id": "n-6",
+              "step": 8,
+              "pitch": 42,
+              "length": 0.3,
+              "velocity": 0.39806916179135443
+            },
+            {
+              "id": "n-7",
+              "step": 12,
+              "pitch": 42,
+              "length": 0.3,
+              "velocity": 0.3675557263288647
+            },
+            {
+              "id": "n-8",
+              "step": 16,
+              "pitch": 36,
+              "length": 0.8,
+              "velocity": 0.8701214446220547
+            },
+            {
+              "id": "n-9",
+              "step": 24,
+              "pitch": 36,
+              "length": 0.8,
+              "velocity": 0.7912250158749521
+            },
+            {
+              "id": "n-10",
+              "step": 20,
+              "pitch": 38,
+              "length": 0.6,
+              "velocity": 0.6473001117818058
+            },
+            {
+              "id": "n-11",
+              "step": 28,
+              "pitch": 38,
+              "length": 0.6,
+              "velocity": 0.6657495643943548
+            },
+            {
+              "id": "n-12",
+              "step": 20,
+              "pitch": 42,
+              "length": 0.3,
+              "velocity": 0.4465266487095505
+            },
+            {
+              "id": "n-13",
+              "step": 24,
+              "pitch": 42,
+              "length": 0.3,
+              "velocity": 0.4526663032080978
+            },
+            {
+              "id": "n-14",
+              "step": 28,
+              "pitch": 42,
+              "length": 0.3,
+              "velocity": 0.429446312924847
+            },
+            {
+              "id": "n-15",
+              "step": 32,
+              "pitch": 36,
+              "length": 0.8,
+              "velocity": 0.8835260980762542
+            },
+            {
+              "id": "n-16",
+              "step": 40,
+              "pitch": 36,
+              "length": 0.8,
+              "velocity": 0.8392495777737349
+            },
+            {
+              "id": "n-17",
+              "step": 36,
+              "pitch": 38,
+              "length": 0.6,
+              "velocity": 0.6269197641126811
+            },
+            {
+              "id": "n-18",
+              "step": 44,
+              "pitch": 38,
+              "length": 0.6,
+              "velocity": 0.5957871642801911
+            },
+            {
+              "id": "n-19",
+              "step": 36,
+              "pitch": 42,
+              "length": 0.3,
+              "velocity": 0.3772330106142908
+            },
+            {
+              "id": "n-20",
+              "step": 40,
+              "pitch": 42,
+              "length": 0.3,
+              "velocity": 0.47267872327007354
+            },
+            {
+              "id": "n-21",
+              "step": 44,
+              "pitch": 42,
+              "length": 0.3,
+              "velocity": 0.4579707642830908
+            },
+            {
+              "id": "n-22",
+              "step": 48,
+              "pitch": 36,
+              "length": 0.8,
+              "velocity": 0.832229998651892
+            },
+            {
+              "id": "n-23",
+              "step": 56,
+              "pitch": 36,
+              "length": 0.8,
+              "velocity": 0.8535064796451479
+            },
+            {
+              "id": "n-24",
+              "step": 52,
+              "pitch": 38,
+              "length": 0.6,
+              "velocity": 0.677291266778484
+            },
+            {
+              "id": "n-25",
+              "step": 60,
+              "pitch": 38,
+              "length": 0.6,
+              "velocity": 0.6131516169942915
+            },
+            {
+              "id": "n-26",
+              "step": 52,
+              "pitch": 42,
+              "length": 0.3,
+              "velocity": 0.376467603072524
+            },
+            {
+              "id": "n-27",
+              "step": 56,
+              "pitch": 42,
+              "length": 0.3,
+              "velocity": 0.367351779313758
+            },
+            {
+              "id": "n-28",
+              "step": 60,
+              "pitch": 42,
+              "length": 0.3,
+              "velocity": 0.365643416242674
+            },
+            {
+              "id": "n-29",
+              "step": 61,
+              "pitch": 45,
+              "length": 0.6,
+              "velocity": 0.36777003631927074
+            },
+            {
+              "id": "n-30",
+              "step": 62,
+              "pitch": 45,
+              "length": 0.6,
+              "velocity": 0.4319542073924095
+            },
+            {
+              "id": "n-31",
+              "step": 63,
+              "pitch": 45,
+              "length": 0.6,
+              "velocity": 0.3623822412174195
+            }
+          ]
+        },
+        "part-c": {
+          "bars": 4,
+          "notes": [
+            {
+              "id": "n-0",
+              "step": 0,
+              "pitch": 36,
+              "length": 0.8,
+              "velocity": 0.8104086952935904
+            },
+            {
+              "id": "n-1",
+              "step": 8,
+              "pitch": 36,
+              "length": 0.8,
+              "velocity": 0.8733202652540057
+            },
+            {
+              "id": "n-2",
+              "step": 4,
+              "pitch": 38,
+              "length": 0.6,
+              "velocity": 0.6900168069824576
+            },
+            {
+              "id": "n-3",
+              "step": 12,
+              "pitch": 38,
+              "length": 0.6,
+              "velocity": 0.6219796141609549
+            },
+            {
+              "id": "n-4",
+              "step": 4,
+              "pitch": 42,
+              "length": 0.3,
+              "velocity": 0.40140182755887505
+            },
+            {
+              "id": "n-5",
+              "step": 8,
+              "pitch": 42,
+              "length": 0.3,
+              "velocity": 0.4299303360376507
+            },
+            {
+              "id": "n-6",
+              "step": 12,
+              "pitch": 42,
+              "length": 0.3,
+              "velocity": 0.39806916179135443
+            },
+            {
+              "id": "n-7",
+              "step": 16,
+              "pitch": 36,
+              "length": 0.8,
+              "velocity": 0.7975557263288646
+            },
+            {
+              "id": "n-8",
+              "step": 24,
+              "pitch": 36,
+              "length": 0.8,
+              "velocity": 0.8701214446220547
+            },
+            {
+              "id": "n-9",
+              "step": 20,
+              "pitch": 38,
+              "length": 0.6,
+              "velocity": 0.5812250158749521
+            },
+            {
+              "id": "n-10",
+              "step": 28,
+              "pitch": 38,
+              "length": 0.6,
+              "velocity": 0.6473001117818058
+            },
+            {
+              "id": "n-11",
+              "step": 20,
+              "pitch": 42,
+              "length": 0.3,
+              "velocity": 0.4457495643943548
+            },
+            {
+              "id": "n-12",
+              "step": 24,
+              "pitch": 42,
+              "length": 0.3,
+              "velocity": 0.4465266487095505
+            },
+            {
+              "id": "n-13",
+              "step": 28,
+              "pitch": 42,
+              "length": 0.3,
+              "velocity": 0.4526663032080978
+            },
+            {
+              "id": "n-14",
+              "step": 32,
+              "pitch": 36,
+              "length": 0.8,
+              "velocity": 0.859446312924847
+            },
+            {
+              "id": "n-15",
+              "step": 40,
+              "pitch": 36,
+              "length": 0.8,
+              "velocity": 0.8835260980762542
+            },
+            {
+              "id": "n-16",
+              "step": 36,
+              "pitch": 38,
+              "length": 0.6,
+              "velocity": 0.6292495777737349
+            },
+            {
+              "id": "n-17",
+              "step": 44,
+              "pitch": 38,
+              "length": 0.6,
+              "velocity": 0.6269197641126811
+            },
+            {
+              "id": "n-18",
+              "step": 36,
+              "pitch": 42,
+              "length": 0.3,
+              "velocity": 0.37578716428019104
+            },
+            {
+              "id": "n-19",
+              "step": 40,
+              "pitch": 42,
+              "length": 0.3,
+              "velocity": 0.3772330106142908
+            },
+            {
+              "id": "n-20",
+              "step": 44,
+              "pitch": 42,
+              "length": 0.3,
+              "velocity": 0.47267872327007354
+            },
+            {
+              "id": "n-21",
+              "step": 48,
+              "pitch": 36,
+              "length": 0.8,
+              "velocity": 0.8879707642830909
+            },
+            {
+              "id": "n-22",
+              "step": 56,
+              "pitch": 36,
+              "length": 0.8,
+              "velocity": 0.832229998651892
+            },
+            {
+              "id": "n-23",
+              "step": 52,
+              "pitch": 38,
+              "length": 0.6,
+              "velocity": 0.643506479645148
+            },
+            {
+              "id": "n-24",
+              "step": 60,
+              "pitch": 38,
+              "length": 0.6,
+              "velocity": 0.677291266778484
+            },
+            {
+              "id": "n-25",
+              "step": 52,
+              "pitch": 42,
+              "length": 0.3,
+              "velocity": 0.3931516169942915
+            },
+            {
+              "id": "n-26",
+              "step": 56,
+              "pitch": 42,
+              "length": 0.3,
+              "velocity": 0.376467603072524
+            },
+            {
+              "id": "n-27",
+              "step": 60,
+              "pitch": 42,
+              "length": 0.3,
+              "velocity": 0.367351779313758
+            },
+            {
+              "id": "n-28",
+              "step": 61,
+              "pitch": 45,
+              "length": 0.6,
+              "velocity": 0.34564341624267403
+            },
+            {
+              "id": "n-29",
+              "step": 62,
+              "pitch": 45,
+              "length": 0.6,
+              "velocity": 0.36777003631927074
+            },
+            {
+              "id": "n-30",
+              "step": 63,
+              "pitch": 45,
+              "length": 0.6,
+              "velocity": 0.4319542073924095
+            }
+          ]
+        },
+        "part-d": {
+          "bars": 4,
+          "notes": [
+            {
+              "id": "n-0",
+              "step": 0,
+              "pitch": 49,
+              "length": 3,
+              "velocity": 0.36040869529359043
+            },
+            {
+              "id": "n-1",
+              "step": 0,
+              "pitch": 36,
+              "length": 0.8,
+              "velocity": 0.8733202652540057
+            },
+            {
+              "id": "n-2",
+              "step": 8,
+              "pitch": 36,
+              "length": 0.8,
+              "velocity": 0.9000168069824576
+            },
+            {
+              "id": "n-3",
+              "step": 4,
+              "pitch": 38,
+              "length": 0.6,
+              "velocity": 0.6219796141609549
+            },
+            {
+              "id": "n-4",
+              "step": 12,
+              "pitch": 38,
+              "length": 0.6,
+              "velocity": 0.6214018275588751
+            },
+            {
+              "id": "n-5",
+              "step": 4,
+              "pitch": 42,
+              "length": 0.3,
+              "velocity": 0.4299303360376507
+            },
+            {
+              "id": "n-6",
+              "step": 8,
+              "pitch": 42,
+              "length": 0.3,
+              "velocity": 0.39806916179135443
+            },
+            {
+              "id": "n-7",
+              "step": 12,
+              "pitch": 42,
+              "length": 0.3,
+              "velocity": 0.3675557263288647
+            },
+            {
+              "id": "n-8",
+              "step": 16,
+              "pitch": 36,
+              "length": 0.8,
+              "velocity": 0.8701214446220547
+            },
+            {
+              "id": "n-9",
+              "step": 24,
+              "pitch": 36,
+              "length": 0.8,
+              "velocity": 0.7912250158749521
+            },
+            {
+              "id": "n-10",
+              "step": 20,
+              "pitch": 38,
+              "length": 0.6,
+              "velocity": 0.6473001117818058
+            },
+            {
+              "id": "n-11",
+              "step": 28,
+              "pitch": 38,
+              "length": 0.6,
+              "velocity": 0.6657495643943548
+            },
+            {
+              "id": "n-12",
+              "step": 20,
+              "pitch": 42,
+              "length": 0.3,
+              "velocity": 0.4465266487095505
+            },
+            {
+              "id": "n-13",
+              "step": 24,
+              "pitch": 42,
+              "length": 0.3,
+              "velocity": 0.4526663032080978
+            },
+            {
+              "id": "n-14",
+              "step": 28,
+              "pitch": 42,
+              "length": 0.3,
+              "velocity": 0.429446312924847
+            },
+            {
+              "id": "n-15",
+              "step": 32,
+              "pitch": 36,
+              "length": 0.8,
+              "velocity": 0.8835260980762542
+            },
+            {
+              "id": "n-16",
+              "step": 40,
+              "pitch": 36,
+              "length": 0.8,
+              "velocity": 0.8392495777737349
+            },
+            {
+              "id": "n-17",
+              "step": 36,
+              "pitch": 38,
+              "length": 0.6,
+              "velocity": 0.6269197641126811
+            },
+            {
+              "id": "n-18",
+              "step": 44,
+              "pitch": 38,
+              "length": 0.6,
+              "velocity": 0.5957871642801911
+            },
+            {
+              "id": "n-19",
+              "step": 36,
+              "pitch": 42,
+              "length": 0.3,
+              "velocity": 0.3772330106142908
+            },
+            {
+              "id": "n-20",
+              "step": 40,
+              "pitch": 42,
+              "length": 0.3,
+              "velocity": 0.47267872327007354
+            },
+            {
+              "id": "n-21",
+              "step": 44,
+              "pitch": 42,
+              "length": 0.3,
+              "velocity": 0.4579707642830908
+            },
+            {
+              "id": "n-22",
+              "step": 48,
+              "pitch": 36,
+              "length": 0.8,
+              "velocity": 0.832229998651892
+            },
+            {
+              "id": "n-23",
+              "step": 56,
+              "pitch": 36,
+              "length": 0.8,
+              "velocity": 0.8535064796451479
+            },
+            {
+              "id": "n-24",
+              "step": 52,
+              "pitch": 38,
+              "length": 0.6,
+              "velocity": 0.677291266778484
+            },
+            {
+              "id": "n-25",
+              "step": 60,
+              "pitch": 38,
+              "length": 0.6,
+              "velocity": 0.6131516169942915
+            },
+            {
+              "id": "n-26",
+              "step": 52,
+              "pitch": 42,
+              "length": 0.3,
+              "velocity": 0.376467603072524
+            },
+            {
+              "id": "n-27",
+              "step": 56,
+              "pitch": 42,
+              "length": 0.3,
+              "velocity": 0.367351779313758
+            },
+            {
+              "id": "n-28",
+              "step": 60,
+              "pitch": 42,
+              "length": 0.3,
+              "velocity": 0.365643416242674
+            },
+            {
+              "id": "n-29",
+              "step": 61,
+              "pitch": 45,
+              "length": 0.6,
+              "velocity": 0.36777003631927074
+            },
+            {
+              "id": "n-30",
+              "step": 62,
+              "pitch": 45,
+              "length": 0.6,
+              "velocity": 0.4319542073924095
+            },
+            {
+              "id": "n-31",
+              "step": 63,
+              "pitch": 45,
+              "length": 0.6,
+              "velocity": 0.3623822412174195
+            }
+          ]
+        }
+      },
+      "enabled": {
+        "part-a": false,
+        "part-b": true,
+        "part-c": true,
+        "part-d": true
+      }
+    }
+  ],
+  "library": [],
+  "notes": "",
+  "createdBy": "Jago Music + SFX Studio"
+}

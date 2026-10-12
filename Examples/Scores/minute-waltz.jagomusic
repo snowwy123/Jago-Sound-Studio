@@ -1,0 +1,165 @@
+{
+  "format": "jagomusic",
+  "version": 1,
+  "id": "d880a186-7cbe-4735-b4fe-93bd31a455ff",
+  "name": "Minute Waltz",
+  "seed": "score",
+  "mood": "cosy",
+  "tempo": 180,
+  "key": 0,
+  "scale": "major",
+  "energy": 0.55,
+  "busyness": 0.5,
+  "human": 0,
+  "loop": false,
+  "master": 0.8,
+  "room": 0.18,
+  "sections": [
+    {
+      "id": "score-0",
+      "name": "Passage 1",
+      "bars": 2,
+      "energy": 1
+    }
+  ],
+  "tracks": [
+    {
+      "id": "score-part-0",
+      "name": "rh:",
+      "role": "melody",
+      "instrument": "piano",
+      "volume": 0.65,
+      "pan": 0,
+      "space": 0.12,
+      "brightness": 0.55,
+      "muted": false,
+      "solo": false,
+      "locked": true,
+      "patterns": {
+        "score-0": {
+          "bars": 2,
+          "notes": [
+            {
+              "id": "score-note-0",
+              "step": 0,
+              "length": 4,
+              "pitch": 68,
+              "velocity": 0.7086614173228346
+            },
+            {
+              "id": "score-note-1",
+              "step": 4,
+              "length": 2,
+              "pitch": 67,
+              "velocity": 0.7086614173228346
+            },
+            {
+              "id": "score-note-2",
+              "step": 6,
+              "length": 2,
+              "pitch": 68,
+              "velocity": 0.7086614173228346
+            },
+            {
+              "id": "score-note-3",
+              "step": 8,
+              "length": 2,
+              "pitch": 72,
+              "velocity": 0.7086614173228346
+            },
+            {
+              "id": "score-note-4",
+              "step": 10,
+              "length": 2,
+              "pitch": 70,
+              "velocity": 0.7086614173228346
+            },
+            {
+              "id": "score-note-5",
+              "step": 12,
+              "length": 2,
+              "pitch": 67,
+              "velocity": 0.7086614173228346
+            },
+            {
+              "id": "score-note-6",
+              "step": 14,
+              "length": 2,
+              "pitch": 68,
+              "velocity": 0.7086614173228346
+            },
+            {
+              "id": "score-note-7",
+              "step": 16,
+              "length": 2,
+              "pitch": 70,
+              "velocity": 0.7086614173228346
+            },
+            {
+              "id": "score-note-8",
+              "step": 18,
+              "length": 2,
+              "pitch": 68,
+              "velocity": 0.7086614173228346
+            },
+            {
+              "id": "score-note-9",
+              "step": 20,
+              "length": 2,
+              "pitch": 72,
+              "velocity": 0.7086614173228346
+            },
+            {
+              "id": "score-note-10",
+              "step": 22,
+              "length": 2,
+              "pitch": 70,
+              "velocity": 0.7086614173228346
+            },
+            {
+              "id": "score-note-11",
+              "step": 24,
+              "length": 2,
+              "pitch": 67,
+              "velocity": 0.7086614173228346
+            },
+            {
+              "id": "score-note-12",
+              "step": 26,
+              "length": 2,
+              "pitch": 68,
+              "velocity": 0.7086614173228346
+            },
+            {
+              "id": "score-note-13",
+              "step": 28,
+              "length": 2,
+              "pitch": 72,
+              "velocity": 0.7086614173228346
+            },
+            {
+              "id": "score-note-14",
+              "step": 30,
+              "length": 2,
+              "pitch": 70,
+              "velocity": 0.7086614173228346
+            }
+          ]
+        }
+      },
+      "enabled": {
+        "score-0": true
+      }
+    }
+  ],
+  "library": [],
+  "notes": "Public domain score edition (Mutopia)\nSource: https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=483\nPublic domain score edition (Mutopia)\nEditable excerpt: quarter beats 0–8. Timing retained on Jago’s four-beat grid. Fixed playback tempo 180 BPM; source tempo changes are not reproduced.",
+  "createdBy": "Jago Music + SFX Studio",
+  "fadeIn": 0,
+  "fadeOut": 0.2,
+  "scoreSource": {
+    "name": "Minute Waltz",
+    "rights": "Public domain score edition (Mutopia)",
+    "url": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=483"
+  }
+}

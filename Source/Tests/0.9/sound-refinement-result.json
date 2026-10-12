@@ -1,0 +1,57 @@
+{
+  "ok": true,
+  "checks": [
+    "Examples contain readable ingredient separators",
+    "Any approach explores all four musical families",
+    "Seeded structure explores different song shapes",
+    "Only one Surprise me action in song generator",
+    "Surprise respects fast pace and breakbeat choice 0",
+    "Only one Surprise me action in song generator",
+    "Surprise respects fast pace and breakbeat choice 1",
+    "Surprise changes unlocked structure 1",
+    "Only one Surprise me action in song generator",
+    "Surprise respects fast pace and breakbeat choice 2",
+    "Surprise changes unlocked structure 2",
+    "Only one Surprise me action in song generator",
+    "Surprise respects fast pace and breakbeat choice 3",
+    "Surprise changes unlocked structure 3",
+    "Only one Surprise me action in song generator",
+    "Surprise respects fast pace and breakbeat choice 4",
+    "Surprise changes unlocked structure 4",
+    "Only one Surprise me action in song generator",
+    "Surprise respects fast pace and breakbeat choice 5",
+    "Surprise changes unlocked structure 5",
+    "Only one Surprise me action in song generator",
+    "Surprise respects fast pace and breakbeat choice 6",
+    "Surprise changes unlocked structure 6",
+    "Only one Surprise me action in song generator",
+    "Surprise respects fast pace and breakbeat choice 7",
+    "Surprise changes unlocked structure 7",
+    "Distant gathering is absent from sound chooser",
+    "Dragging ingredient label shows a visible active state",
+    "Dragging displays live start and end seconds",
+    "Dragging label commits start time",
+    "One undo restores timing gesture",
+    "Fire presets produce different audio with same seed",
+    "Fire and room loops have continuous sample joins",
+    "Loop toggle changes playing recipe",
+    "Sound export filename uses the edited sound name",
+    "No browser errors"
+  ],
+  "errors": [],
+  "audio": {
+    "join": 0,
+    "fire": [
+      {
+        "name": "Small ember crackles",
+        "rms": 0.008377211424407033,
+        "join": 0
+      },
+      {
+        "name": "Close campfire",
+        "rms": 0.03470381788006449,
+        "join": 0
+      }
+    ]
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "format": "jagosound",
+  "version": 1,
+  "recipe": {
+    "type": "custom",
+    "seed": "three-note-confirmation",
+    "duration": 1,
+    "size": 0.5,
+    "tone": 0.5,
+    "texture": 0,
+    "rate": 0.5,
+    "space": 0.08,
+    "volume": 0.65,
+    "loop": false,
+    "surface": "wood",
+    "action": "both",
+    "normalize": true,
+    "variation": 0.35,
+    "distance": 0,
+    "resonance": 0.5,
+    "label": "Three-note confirmation",
+    "ingredients": [
+      {
+        "id": "study-0",
+        "name": "Note 1",
+        "kind": "tone",
+        "enabled": true,
+        "offset": 0,
+        "duration": 0.25,
+        "level": 0.65,
+        "pan": 0,
+        "frequency": 660,
+        "wave": "sine",
+        "colour": "white",
+        "cutoff": 12000,
+        "filter": "lowpass",
+        "drive": 0,
+        "pitch": 0,
+        "volumeCurve": [
+          {
+            "x": 0,
+            "y": 0
+          },
+          {
+            "x": 0.06,
+            "y": 1
+          },
+          {
+            "x": 0.65,
+            "y": 0.6
+          },
+          {
+            "x": 1,
+            "y": 0
+          }
+        ],
+        "pitchCurve": [
+          {
+            "x": 0,
+            "y": 0.5
+          },
+          {
+            "x": 1,
+            "y": 0.5
+          }
+        ]
+      },
+      {
+        "id": "study-1",
+        "name": "Note 2",
+        "kind": "tone",
+        "enabled": true,
+        "offset": 0.2,
+        "duration": 0.25,
+        "level": 0.65,
+        "pan": 0,
+        "frequency": 880,
+        "wave": "sine",
+        "colour": "white",
+        "cutoff": 12000,
+        "filter": "lowpass",
+        "drive": 0,
+        "pitch": 0,
+        "volumeCurve": [
+          {
+            "x": 0,
+            "y": 0
+          },
+          {
+            "x": 0.06,
+            "y": 1
+          },
+          {
+            "x": 0.65,
+            "y": 0.6
+          },
+          {
+            "x": 1,
+            "y": 0
+          }
+        ],
+        "pitchCurve": [
+          {
+            "x": 0,
+            "y": 0.5
+          },
+          {
+            "x": 1,
+            "y": 0.5
+          }
+        ]
+      },
+      {
+        "id": "study-2",
+        "name": "Note 3",
+        "kind": "tone",
+        "enabled": true,
+        "offset": 0.4,
+        "duration": 0.25,
+        "level": 0.65,
+        "pan": 0,
+        "frequency": 1100,
+        "wave": "sine",
+        "colour": "white",
+        "cutoff": 12000,
+        "filter": "lowpass",
+        "drive": 0,
+        "pitch": 0,
+        "volumeCurve": [
+          {
+            "x": 0,
+            "y": 0
+          },
+          {
+            "x": 0.06,
+            "y": 1
+          },
+          {
+            "x": 0.65,
+            "y": 0.6
+          },
+          {
+            "x": 1,
+            "y": 0
+          }
+        ],
+        "pitchCurve": [
+          {
+            "x": 0,
+            "y": 0.5
+          },
+          {
+            "x": 1,
+            "y": 0.5
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,167 @@
+{
+  "format": "jagomusic",
+  "version": 1,
+  "id": "adc6cd68-f33c-42cc-9e21-349cc8baf562",
+  "name": "Gymnopédie No. 1",
+  "seed": "score",
+  "mood": "cosy",
+  "tempo": 180,
+  "key": 0,
+  "scale": "major",
+  "energy": 0.55,
+  "busyness": 0.5,
+  "human": 0,
+  "loop": false,
+  "master": 0.8,
+  "room": 0.18,
+  "sections": [
+    {
+      "id": "score-0",
+      "name": "Passage 1",
+      "bars": 2,
+      "energy": 1
+    }
+  ],
+  "tracks": [
+    {
+      "id": "score-part-0",
+      "name": "treble:",
+      "role": "melody",
+      "instrument": "piano",
+      "volume": 0.65,
+      "pan": 0,
+      "space": 0.12,
+      "brightness": 0.55,
+      "muted": false,
+      "solo": false,
+      "locked": true,
+      "patterns": {
+        "score-0": {
+          "bars": 2,
+          "notes": [
+            {
+              "id": "score-note-0",
+              "step": 4,
+              "length": 8,
+              "pitch": 66,
+              "velocity": 0.7086614173228346
+            },
+            {
+              "id": "score-note-1",
+              "step": 4,
+              "length": 8,
+              "pitch": 62,
+              "velocity": 0.7086614173228346
+            },
+            {
+              "id": "score-note-2",
+              "step": 4,
+              "length": 8,
+              "pitch": 59,
+              "velocity": 0.7086614173228346
+            },
+            {
+              "id": "score-note-3",
+              "step": 16,
+              "length": 8,
+              "pitch": 57,
+              "velocity": 0.7086614173228346
+            },
+            {
+              "id": "score-note-4",
+              "step": 16,
+              "length": 8,
+              "pitch": 61,
+              "velocity": 0.7086614173228346
+            },
+            {
+              "id": "score-note-5",
+              "step": 16,
+              "length": 8,
+              "pitch": 66,
+              "velocity": 0.7086614173228346
+            },
+            {
+              "id": "score-note-6",
+              "step": 28,
+              "length": 4,
+              "pitch": 66,
+              "velocity": 0.7086614173228346
+            },
+            {
+              "id": "score-note-7",
+              "step": 28,
+              "length": 4,
+              "pitch": 62,
+              "velocity": 0.7086614173228346
+            },
+            {
+              "id": "score-note-8",
+              "step": 28,
+              "length": 4,
+              "pitch": 59,
+              "velocity": 0.7086614173228346
+            }
+          ]
+        }
+      },
+      "enabled": {
+        "score-0": true
+      }
+    },
+    {
+      "id": "score-part-1",
+      "name": "bass:",
+      "role": "harmony",
+      "instrument": "piano",
+      "volume": 0.65,
+      "pan": -0.15,
+      "space": 0.12,
+      "brightness": 0.55,
+      "muted": false,
+      "solo": false,
+      "locked": true,
+      "patterns": {
+        "score-0": {
+          "bars": 2,
+          "notes": [
+            {
+              "id": "score-note-0",
+              "step": 0,
+              "length": 12,
+              "pitch": 43,
+              "velocity": 0.7086614173228346
+            },
+            {
+              "id": "score-note-1",
+              "step": 12,
+              "length": 12,
+              "pitch": 38,
+              "velocity": 0.7086614173228346
+            },
+            {
+              "id": "score-note-2",
+              "step": 24,
+              "length": 8,
+              "pitch": 43,
+              "velocity": 0.7086614173228346
+            }
+          ]
+        }
+      },
+      "enabled": {
+        "score-0": true
+      }
+    }
+  ],
+  "library": [],
+  "notes": "Public domain score edition (Mutopia)\nSource: https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=37\nPublic domain score edition (Mutopia)\nEditable excerpt: quarter beats 0–8. Timing retained on Jago’s four-beat grid. Fixed playback tempo 180 BPM; source tempo changes are not reproduced.",
+  "createdBy": "Jago Music + SFX Studio",
+  "fadeIn": 0,
+  "fadeOut": 0.2,
+  "scoreSource": {
+    "name": "Gymnopédie No. 1",
+    "rights": "Public domain score edition (Mutopia)",
+    "url": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=37"
+  }
+}

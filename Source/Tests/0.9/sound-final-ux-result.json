@@ -1,0 +1,22 @@
+{
+  "ok": true,
+  "checks": [
+    "End handle lengthens ingredient",
+    "Resize is one undo",
+    "Start handle trims duration while retaining end",
+    "End handle shortens ingredient",
+    "Sound subfolder has an explicit parent",
+    "Sound moves into subfolder",
+    "Track is saved into selected subfolder",
+    "Saved composition moves without opening it",
+    "Empty subfolder remains available after reopening",
+    "Hear selected note sits beside Hear this part",
+    "Single note preview leaves transport stopped",
+    "Single note preview keeps song playback running",
+    "Motif secondary phrases avoid lead phrase windows",
+    "Loop and complete-song ending are available",
+    "Surprise respects loop choice with optional variable length",
+    "No browser errors"
+  ],
+  "errors": []
+}

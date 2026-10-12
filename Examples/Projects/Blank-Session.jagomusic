@@ -1,0 +1,47 @@
+{
+  "format": "jagomusic",
+  "version": 1,
+  "id": "07deaf9d-2497-45b5-bb09-1de7019ac950",
+  "name": "Untitled session",
+  "seed": "lantern-01",
+  "mood": "cosy",
+  "tempo": 84,
+  "key": 0,
+  "scale": "major",
+  "energy": 0.55,
+  "busyness": 0.5,
+  "human": 0.18,
+  "loop": true,
+  "master": 0.8,
+  "room": 0.3,
+  "sections": [
+    {
+      "id": "part-a",
+      "name": "Opening",
+      "bars": 4,
+      "energy": 0.65
+    },
+    {
+      "id": "part-b",
+      "name": "Main idea",
+      "bars": 4,
+      "energy": 1
+    },
+    {
+      "id": "part-c",
+      "name": "A little change",
+      "bars": 4,
+      "energy": 0.85
+    },
+    {
+      "id": "part-d",
+      "name": "Return",
+      "bars": 4,
+      "energy": 1
+    }
+  ],
+  "tracks": [],
+  "library": [],
+  "notes": "",
+  "createdBy": "Jago Music + SFX Studio"
+}

@@ -1,0 +1,10 @@
+{
+  "ok": true,
+  "checks": [
+    "Drawing volume curve changes its points",
+    "One undo restores the drawn curve",
+    "Dragging timing bar moves ingredient",
+    "Recording imports into the custom sound",
+    "Layered recording and tone render audibly"
+  ]
+}

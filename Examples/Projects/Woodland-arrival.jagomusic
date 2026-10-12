@@ -1,0 +1,177 @@
+{
+  "format": "jagomusic",
+  "version": 1,
+  "id": "8257dda1-a59d-4ef0-9e52-6787f1d8ded0",
+  "name": "Woodland arrival",
+  "seed": "lantern-01",
+  "mood": "cosy",
+  "tempo": 90,
+  "key": 0,
+  "scale": "major",
+  "energy": 0.55,
+  "busyness": 0.5,
+  "human": 0.18,
+  "loop": true,
+  "master": 0.8,
+  "room": 0.3,
+  "sections": [
+    {
+      "id": "scene",
+      "name": "Arrival at the cabin",
+      "bars": 4,
+      "energy": 1
+    }
+  ],
+  "tracks": [
+    {
+      "id": "scene-voice-0",
+      "name": "Forest at dusk",
+      "role": "sound",
+      "instrument": "pad",
+      "volume": 0.35,
+      "pan": 0,
+      "space": 0.15,
+      "brightness": 0.55,
+      "muted": false,
+      "solo": false,
+      "locked": true,
+      "patterns": {
+        "scene": {
+          "bars": 4,
+          "notes": [
+            {
+              "id": "cue-0",
+              "step": 0,
+              "pitch": 60,
+              "length": 64,
+              "velocity": 0.8
+            }
+          ]
+        }
+      },
+      "enabled": {
+        "scene": true
+      },
+      "sound": {
+        "type": "forest",
+        "seed": "woodland-forest",
+        "duration": 12,
+        "size": 0.5,
+        "tone": 0.5,
+        "texture": 0.5,
+        "rate": 0.5,
+        "space": 0.2,
+        "volume": 0.65,
+        "loop": true,
+        "surface": "wood",
+        "action": "both"
+      },
+      "cue": {
+        "offset": 0,
+        "fadeIn": 0.3,
+        "fadeOut": 0.3
+      }
+    },
+    {
+      "id": "scene-voice-1",
+      "name": "Approaching the cabin",
+      "role": "sound",
+      "instrument": "pad",
+      "volume": 0.6,
+      "pan": 0,
+      "space": 0.15,
+      "brightness": 0.55,
+      "muted": false,
+      "solo": false,
+      "locked": true,
+      "patterns": {
+        "scene": {
+          "bars": 4,
+          "notes": [
+            {
+              "id": "cue-1",
+              "step": 10,
+              "pitch": 60,
+              "length": 32,
+              "velocity": 0.8
+            }
+          ]
+        }
+      },
+      "enabled": {
+        "scene": true
+      },
+      "sound": {
+        "type": "footsteps",
+        "seed": "woodland-footsteps",
+        "duration": 6,
+        "size": 0.5,
+        "tone": 0.5,
+        "texture": 0.5,
+        "rate": 0.5,
+        "space": 0.2,
+        "volume": 0.65,
+        "loop": true,
+        "surface": "grass",
+        "action": "both"
+      },
+      "cue": {
+        "offset": 0,
+        "fadeIn": 0,
+        "fadeOut": 0.05
+      }
+    },
+    {
+      "id": "scene-voice-2",
+      "name": "Opening the wooden door",
+      "role": "sound",
+      "instrument": "pad",
+      "volume": 0.75,
+      "pan": 0,
+      "space": 0.15,
+      "brightness": 0.55,
+      "muted": false,
+      "solo": false,
+      "locked": true,
+      "patterns": {
+        "scene": {
+          "bars": 4,
+          "notes": [
+            {
+              "id": "cue-2",
+              "step": 46,
+              "pitch": 60,
+              "length": 16,
+              "velocity": 0.8
+            }
+          ]
+        }
+      },
+      "enabled": {
+        "scene": true
+      },
+      "sound": {
+        "type": "door",
+        "seed": "woodland-door",
+        "duration": 2.5,
+        "size": 0.5,
+        "tone": 0.5,
+        "texture": 0.5,
+        "rate": 0.5,
+        "space": 0.2,
+        "volume": 0.65,
+        "loop": false,
+        "surface": "wood",
+        "action": "open"
+      },
+      "cue": {
+        "offset": 0,
+        "fadeIn": 0,
+        "fadeOut": 0.05
+      }
+    }
+  ],
+  "library": [],
+  "notes": "Forest bed with walking and a wooden door opening. Import its WAV into a Worldbuilding scene, video editor or game. Every sound remains an editable local recipe.",
+  "createdBy": "Jago Music + SFX Studio"
+}

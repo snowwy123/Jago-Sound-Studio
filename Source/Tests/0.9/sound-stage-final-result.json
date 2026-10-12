@@ -1,0 +1,15 @@
+{
+  "ok": true,
+  "checks": [
+    "Original matches preserved pre-stage fixture",
+    "Regeneration keeps new family, locked parts and pattern lengths",
+    "Three-note confirmation study renders",
+    "Soft air sweep study renders",
+    "Layered low impact study renders",
+    "Glass-like descending signal study renders",
+    "Ingredient studies are discoverable in Examples",
+    "Opening a study exposes its ingredient construction",
+    "Alternative auditions while editor remains unchanged",
+    "Closing ideas resumes original playback near its previous position"
+  ]
+}

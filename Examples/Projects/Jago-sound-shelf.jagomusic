@@ -1,0 +1,788 @@
+{
+  "format": "jagomusic",
+  "version": 1,
+  "id": "5334ad3c-bba4-4768-a4b5-cf88558c21a2",
+  "name": "Jago sound shelf",
+  "seed": "lantern-01",
+  "mood": "cosy",
+  "tempo": 84,
+  "key": 0,
+  "scale": "major",
+  "energy": 0.55,
+  "busyness": 0.5,
+  "human": 0.18,
+  "loop": true,
+  "master": 0.8,
+  "room": 0.3,
+  "sections": [
+    {
+      "id": "part-a",
+      "name": "Opening",
+      "bars": 4,
+      "energy": 0.65
+    },
+    {
+      "id": "part-b",
+      "name": "Main idea",
+      "bars": 4,
+      "energy": 1
+    },
+    {
+      "id": "part-c",
+      "name": "A little change",
+      "bars": 4,
+      "energy": 0.85
+    },
+    {
+      "id": "part-d",
+      "name": "Return",
+      "bars": 4,
+      "energy": 1
+    }
+  ],
+  "tracks": [],
+  "library": [
+    {
+      "id": "shelf-0",
+      "name": "Soft rainfall",
+      "favourite": true,
+      "builtin": false,
+      "recipe": {
+        "type": "rain",
+        "seed": "jago-library-0",
+        "duration": 8,
+        "size": 0.3,
+        "tone": 0.5,
+        "texture": 0.25,
+        "rate": 0.3,
+        "space": 0.2,
+        "volume": 0.65,
+        "loop": true,
+        "surface": "wood",
+        "action": "both"
+      }
+    },
+    {
+      "id": "shelf-1",
+      "name": "Heavy rainfall",
+      "favourite": true,
+      "builtin": false,
+      "recipe": {
+        "type": "rain",
+        "seed": "jago-library-1",
+        "duration": 8,
+        "size": 0.8,
+        "tone": 0.5,
+        "texture": 0.65,
+        "rate": 0.9,
+        "space": 0.2,
+        "volume": 0.65,
+        "loop": true,
+        "surface": "wood",
+        "action": "both"
+      }
+    },
+    {
+      "id": "shelf-2",
+      "name": "Stone footsteps",
+      "favourite": true,
+      "builtin": false,
+      "recipe": {
+        "type": "footsteps",
+        "seed": "jago-library-2",
+        "duration": 6,
+        "size": 0.5,
+        "tone": 0.5,
+        "texture": 0.5,
+        "rate": 0.5,
+        "space": 0.2,
+        "volume": 0.65,
+        "loop": true,
+        "surface": "stone",
+        "action": "both"
+      }
+    },
+    {
+      "id": "shelf-3",
+      "name": "Wooden footsteps",
+      "favourite": true,
+      "builtin": false,
+      "recipe": {
+        "type": "footsteps",
+        "seed": "jago-library-3",
+        "duration": 6,
+        "size": 0.5,
+        "tone": 0.5,
+        "texture": 0.5,
+        "rate": 0.5,
+        "space": 0.2,
+        "volume": 0.65,
+        "loop": true,
+        "surface": "wood",
+        "action": "both"
+      }
+    },
+    {
+      "id": "shelf-4",
+      "name": "Gravel footsteps",
+      "favourite": true,
+      "builtin": false,
+      "recipe": {
+        "type": "footsteps",
+        "seed": "jago-library-4",
+        "duration": 6,
+        "size": 0.5,
+        "tone": 0.5,
+        "texture": 0.8,
+        "rate": 0.5,
+        "space": 0.2,
+        "volume": 0.65,
+        "loop": true,
+        "surface": "gravel",
+        "action": "both"
+      }
+    },
+    {
+      "id": "shelf-5",
+      "name": "Grass footsteps",
+      "favourite": true,
+      "builtin": false,
+      "recipe": {
+        "type": "footsteps",
+        "seed": "jago-library-5",
+        "duration": 6,
+        "size": 0.5,
+        "tone": 0.5,
+        "texture": 0.35,
+        "rate": 0.5,
+        "space": 0.2,
+        "volume": 0.65,
+        "loop": true,
+        "surface": "grass",
+        "action": "both"
+      }
+    },
+    {
+      "id": "shelf-6",
+      "name": "Metal footsteps",
+      "favourite": true,
+      "builtin": false,
+      "recipe": {
+        "type": "footsteps",
+        "seed": "jago-library-6",
+        "duration": 6,
+        "size": 0.5,
+        "tone": 0.5,
+        "texture": 0.5,
+        "rate": 0.5,
+        "space": 0.2,
+        "volume": 0.65,
+        "loop": true,
+        "surface": "metal",
+        "action": "both"
+      }
+    },
+    {
+      "id": "shelf-7",
+      "name": "Wood door opening",
+      "favourite": true,
+      "builtin": false,
+      "recipe": {
+        "type": "door",
+        "seed": "jago-library-7",
+        "duration": 2.5,
+        "size": 0.5,
+        "tone": 0.5,
+        "texture": 0.5,
+        "rate": 0.5,
+        "space": 0.2,
+        "volume": 0.65,
+        "loop": false,
+        "surface": "wood",
+        "action": "open"
+      }
+    },
+    {
+      "id": "shelf-8",
+      "name": "Wood door closing",
+      "favourite": true,
+      "builtin": false,
+      "recipe": {
+        "type": "door",
+        "seed": "jago-library-8",
+        "duration": 2.5,
+        "size": 0.5,
+        "tone": 0.5,
+        "texture": 0.5,
+        "rate": 0.5,
+        "space": 0.2,
+        "volume": 0.65,
+        "loop": false,
+        "surface": "wood",
+        "action": "close"
+      }
+    },
+    {
+      "id": "shelf-9",
+      "name": "Metal door movement",
+      "favourite": true,
+      "builtin": false,
+      "recipe": {
+        "type": "door",
+        "seed": "jago-library-9",
+        "duration": 2.5,
+        "size": 0.5,
+        "tone": 0.5,
+        "texture": 0.5,
+        "rate": 0.5,
+        "space": 0.2,
+        "volume": 0.65,
+        "loop": false,
+        "surface": "metal",
+        "action": "both"
+      }
+    },
+    {
+      "id": "shelf-10",
+      "name": "Quick blade swish",
+      "favourite": true,
+      "builtin": false,
+      "recipe": {
+        "type": "sword",
+        "seed": "jago-library-10",
+        "duration": 0.45,
+        "size": 0.5,
+        "tone": 0.5,
+        "texture": 0.5,
+        "rate": 0.5,
+        "space": 0.2,
+        "volume": 0.65,
+        "loop": false,
+        "surface": "wood",
+        "action": "both"
+      }
+    },
+    {
+      "id": "shelf-11",
+      "name": "Broad air whoosh",
+      "favourite": true,
+      "builtin": false,
+      "recipe": {
+        "type": "whoosh",
+        "seed": "jago-library-11",
+        "duration": 1.4,
+        "size": 0.5,
+        "tone": 0.5,
+        "texture": 0.5,
+        "rate": 0.5,
+        "space": 0.2,
+        "volume": 0.65,
+        "loop": false,
+        "surface": "wood",
+        "action": "both"
+      }
+    },
+    {
+      "id": "shelf-12",
+      "name": "Wind through trees",
+      "favourite": false,
+      "builtin": false,
+      "recipe": {
+        "type": "wind",
+        "seed": "jago-library-12",
+        "duration": 8,
+        "size": 0.5,
+        "tone": 0.5,
+        "texture": 0.5,
+        "rate": 0.5,
+        "space": 0.2,
+        "volume": 0.65,
+        "loop": true,
+        "surface": "wood",
+        "action": "both"
+      }
+    },
+    {
+      "id": "shelf-13",
+      "name": "Ocean wash",
+      "favourite": false,
+      "builtin": false,
+      "recipe": {
+        "type": "ocean",
+        "seed": "jago-library-13",
+        "duration": 10,
+        "size": 0.5,
+        "tone": 0.5,
+        "texture": 0.5,
+        "rate": 0.5,
+        "space": 0.2,
+        "volume": 0.65,
+        "loop": true,
+        "surface": "wood",
+        "action": "both"
+      }
+    },
+    {
+      "id": "shelf-14",
+      "name": "Crackling fire",
+      "favourite": false,
+      "builtin": false,
+      "recipe": {
+        "type": "fire",
+        "seed": "jago-library-14",
+        "duration": 8,
+        "size": 0.5,
+        "tone": 0.5,
+        "texture": 0.5,
+        "rate": 0.5,
+        "space": 0.2,
+        "volume": 0.65,
+        "loop": true,
+        "surface": "wood",
+        "action": "both"
+      }
+    },
+    {
+      "id": "shelf-15",
+      "name": "Birdsong",
+      "favourite": false,
+      "builtin": false,
+      "recipe": {
+        "type": "birds",
+        "seed": "jago-library-15",
+        "duration": 8,
+        "size": 0.5,
+        "tone": 0.5,
+        "texture": 0.5,
+        "rate": 0.5,
+        "space": 0.2,
+        "volume": 0.65,
+        "loop": true,
+        "surface": "wood",
+        "action": "both"
+      }
+    },
+    {
+      "id": "shelf-16",
+      "name": "Cavern drips",
+      "favourite": false,
+      "builtin": false,
+      "recipe": {
+        "type": "drip",
+        "seed": "jago-library-16",
+        "duration": 6,
+        "size": 0.5,
+        "tone": 0.5,
+        "texture": 0.5,
+        "rate": 0.5,
+        "space": 0.2,
+        "volume": 0.65,
+        "loop": true,
+        "surface": "wood",
+        "action": "both"
+      }
+    },
+    {
+      "id": "shelf-17",
+      "name": "Space drone",
+      "favourite": false,
+      "builtin": false,
+      "recipe": {
+        "type": "space",
+        "seed": "jago-library-17",
+        "duration": 10,
+        "size": 0.5,
+        "tone": 0.5,
+        "texture": 0.5,
+        "rate": 0.5,
+        "space": 0.2,
+        "volume": 0.65,
+        "loop": true,
+        "surface": "wood",
+        "action": "both"
+      }
+    },
+    {
+      "id": "shelf-18",
+      "name": "Engine hum",
+      "favourite": false,
+      "builtin": false,
+      "recipe": {
+        "type": "engine",
+        "seed": "jago-library-18",
+        "duration": 6,
+        "size": 0.5,
+        "tone": 0.5,
+        "texture": 0.5,
+        "rate": 0.5,
+        "space": 0.2,
+        "volume": 0.65,
+        "loop": true,
+        "surface": "wood",
+        "action": "both"
+      }
+    },
+    {
+      "id": "shelf-19",
+      "name": "Electric interference",
+      "favourite": false,
+      "builtin": false,
+      "recipe": {
+        "type": "electric",
+        "seed": "jago-library-19",
+        "duration": 6,
+        "size": 0.5,
+        "tone": 0.5,
+        "texture": 0.5,
+        "rate": 0.5,
+        "space": 0.2,
+        "volume": 0.65,
+        "loop": true,
+        "surface": "wood",
+        "action": "both"
+      }
+    },
+    {
+      "id": "shelf-20",
+      "name": "Heartbeat",
+      "favourite": false,
+      "builtin": false,
+      "recipe": {
+        "type": "heartbeat",
+        "seed": "jago-library-20",
+        "duration": 6,
+        "size": 0.5,
+        "tone": 0.5,
+        "texture": 0.5,
+        "rate": 0.5,
+        "space": 0.2,
+        "volume": 0.65,
+        "loop": true,
+        "surface": "wood",
+        "action": "both"
+      }
+    },
+    {
+      "id": "shelf-21",
+      "name": "Heavy impact",
+      "favourite": false,
+      "builtin": false,
+      "recipe": {
+        "type": "impact",
+        "seed": "jago-library-21",
+        "duration": 1.2,
+        "size": 0.5,
+        "tone": 0.5,
+        "texture": 0.5,
+        "rate": 0.5,
+        "space": 0.2,
+        "volume": 0.65,
+        "loop": false,
+        "surface": "wood",
+        "action": "both"
+      }
+    },
+    {
+      "id": "shelf-22",
+      "name": "Laser pulse",
+      "favourite": false,
+      "builtin": false,
+      "recipe": {
+        "type": "laser",
+        "seed": "jago-library-22",
+        "duration": 0.65,
+        "size": 0.5,
+        "tone": 0.5,
+        "texture": 0.5,
+        "rate": 0.5,
+        "space": 0.2,
+        "volume": 0.65,
+        "loop": false,
+        "surface": "wood",
+        "action": "both"
+      }
+    },
+    {
+      "id": "shelf-23",
+      "name": "Coin pickup",
+      "favourite": false,
+      "builtin": false,
+      "recipe": {
+        "type": "coin",
+        "seed": "jago-library-23",
+        "duration": 0.7,
+        "size": 0.5,
+        "tone": 0.5,
+        "texture": 0.5,
+        "rate": 0.5,
+        "space": 0.2,
+        "volume": 0.65,
+        "loop": false,
+        "surface": "wood",
+        "action": "both"
+      }
+    },
+    {
+      "id": "shelf-24",
+      "name": "Soft notification",
+      "favourite": false,
+      "builtin": false,
+      "recipe": {
+        "type": "chime",
+        "seed": "jago-library-24",
+        "duration": 1.8,
+        "size": 0.5,
+        "tone": 0.5,
+        "texture": 0.5,
+        "rate": 0.5,
+        "space": 0.2,
+        "volume": 0.65,
+        "loop": false,
+        "surface": "wood",
+        "action": "both"
+      }
+    },
+    {
+      "id": "shelf-25",
+      "name": "Tactile button",
+      "favourite": false,
+      "builtin": false,
+      "recipe": {
+        "type": "click",
+        "seed": "jago-library-25",
+        "duration": 0.2,
+        "size": 0.5,
+        "tone": 0.5,
+        "texture": 0.5,
+        "rate": 0.5,
+        "space": 0.2,
+        "volume": 0.65,
+        "loop": false,
+        "surface": "wood",
+        "action": "both"
+      }
+    },
+    {
+      "id": "shelf-26",
+      "name": "Distant explosion",
+      "favourite": false,
+      "builtin": false,
+      "recipe": {
+        "type": "explosion",
+        "seed": "jago-library-26",
+        "duration": 2.5,
+        "size": 0.5,
+        "tone": 0.5,
+        "texture": 0.5,
+        "rate": 0.5,
+        "space": 0.2,
+        "volume": 0.65,
+        "loop": false,
+        "surface": "wood",
+        "action": "both"
+      }
+    },
+    {
+      "id": "shelf-27",
+      "name": "Magic shimmer",
+      "favourite": false,
+      "builtin": false,
+      "recipe": {
+        "type": "magic",
+        "seed": "jago-library-27",
+        "duration": 3,
+        "size": 0.5,
+        "tone": 0.5,
+        "texture": 0.5,
+        "rate": 0.5,
+        "space": 0.2,
+        "volume": 0.65,
+        "loop": false,
+        "surface": "wood",
+        "action": "both"
+      }
+    },
+    {
+      "id": "shelf-28",
+      "name": "Portal opening",
+      "favourite": false,
+      "builtin": false,
+      "recipe": {
+        "type": "teleport",
+        "seed": "jago-library-28",
+        "duration": 3,
+        "size": 0.5,
+        "tone": 0.5,
+        "texture": 0.5,
+        "rate": 0.5,
+        "space": 0.2,
+        "volume": 0.65,
+        "loop": false,
+        "surface": "wood",
+        "action": "both"
+      }
+    },
+    {
+      "id": "shelf-29",
+      "name": "Sword clang",
+      "favourite": false,
+      "builtin": false,
+      "recipe": {
+        "type": "clang",
+        "seed": "jago-library-29",
+        "duration": 1.4,
+        "size": 0.5,
+        "tone": 0.5,
+        "texture": 0.5,
+        "rate": 0.5,
+        "space": 0.2,
+        "volume": 0.65,
+        "loop": false,
+        "surface": "wood",
+        "action": "both"
+      }
+    },
+    {
+      "id": "shelf-30",
+      "name": "Shield strike",
+      "favourite": false,
+      "builtin": false,
+      "recipe": {
+        "type": "shield",
+        "seed": "jago-library-30",
+        "duration": 1.2,
+        "size": 0.5,
+        "tone": 0.5,
+        "texture": 0.5,
+        "rate": 0.5,
+        "space": 0.2,
+        "volume": 0.65,
+        "loop": false,
+        "surface": "wood",
+        "action": "both"
+      }
+    },
+    {
+      "id": "shelf-31",
+      "name": "Forest at dusk",
+      "favourite": false,
+      "builtin": false,
+      "recipe": {
+        "type": "forest",
+        "seed": "jago-library-31",
+        "duration": 12,
+        "size": 0.5,
+        "tone": 0.5,
+        "texture": 0.5,
+        "rate": 0.5,
+        "space": 0.2,
+        "volume": 0.65,
+        "loop": true,
+        "surface": "wood",
+        "action": "both"
+      }
+    },
+    {
+      "id": "shelf-32",
+      "name": "Running stream",
+      "favourite": false,
+      "builtin": false,
+      "recipe": {
+        "type": "stream",
+        "seed": "jago-library-32",
+        "duration": 10,
+        "size": 0.5,
+        "tone": 0.5,
+        "texture": 0.5,
+        "rate": 0.5,
+        "space": 0.2,
+        "volume": 0.65,
+        "loop": true,
+        "surface": "wood",
+        "action": "both"
+      }
+    },
+    {
+      "id": "shelf-33",
+      "name": "Night insects",
+      "favourite": false,
+      "builtin": false,
+      "recipe": {
+        "type": "insects",
+        "seed": "jago-library-33",
+        "duration": 10,
+        "size": 0.5,
+        "tone": 0.5,
+        "texture": 0.5,
+        "rate": 0.5,
+        "space": 0.2,
+        "volume": 0.65,
+        "loop": true,
+        "surface": "wood",
+        "action": "both"
+      }
+    },
+    {
+      "id": "shelf-34",
+      "name": "Rolling thunder",
+      "favourite": false,
+      "builtin": false,
+      "recipe": {
+        "type": "thunder",
+        "seed": "jago-library-34",
+        "duration": 5,
+        "size": 0.5,
+        "tone": 0.5,
+        "texture": 0.5,
+        "rate": 0.5,
+        "space": 0.2,
+        "volume": 0.65,
+        "loop": false,
+        "surface": "wood",
+        "action": "both"
+      }
+    },
+    {
+      "id": "shelf-35",
+      "name": "Distant gathering",
+      "favourite": false,
+      "builtin": false,
+      "recipe": {
+        "type": "crowd",
+        "seed": "jago-library-35",
+        "duration": 10,
+        "size": 0.5,
+        "tone": 0.5,
+        "texture": 0.5,
+        "rate": 0.5,
+        "space": 0.2,
+        "volume": 0.65,
+        "loop": true,
+        "surface": "wood",
+        "action": "both"
+      }
+    },
+    {
+      "id": "shelf-36",
+      "name": "Quiet room tone",
+      "favourite": false,
+      "builtin": false,
+      "recipe": {
+        "type": "room",
+        "seed": "jago-library-36",
+        "duration": 10,
+        "size": 0.5,
+        "tone": 0.5,
+        "texture": 0.5,
+        "rate": 0.5,
+        "space": 0.2,
+        "volume": 0.65,
+        "loop": true,
+        "surface": "wood",
+        "action": "both"
+      }
+    }
+  ],
+  "notes": "",
+  "createdBy": "Jago Music + SFX Studio"
+}

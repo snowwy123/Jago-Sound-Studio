@@ -1,0 +1,559 @@
+{
+  "format": "jagomusic",
+  "version": 1,
+  "id": "df3ea903-4ca6-4202-8a80-80b2579cac15",
+  "name": "Maple Leaf Rag",
+  "seed": "score",
+  "mood": "cosy",
+  "tempo": 180,
+  "key": 0,
+  "scale": "major",
+  "energy": 0.55,
+  "busyness": 0.5,
+  "human": 0,
+  "loop": false,
+  "master": 0.8,
+  "room": 0.18,
+  "sections": [
+    {
+      "id": "score-0",
+      "name": "Passage 1",
+      "bars": 2,
+      "energy": 1
+    }
+  ],
+  "tracks": [
+    {
+      "id": "score-part-0",
+      "name": "up:",
+      "role": "melody",
+      "instrument": "piano",
+      "volume": 0.65,
+      "pan": 0,
+      "space": 0.12,
+      "brightness": 0.55,
+      "muted": false,
+      "solo": false,
+      "locked": true,
+      "patterns": {
+        "score-0": {
+          "bars": 2,
+          "notes": [
+            {
+              "id": "score-note-0",
+              "step": 3,
+              "length": 1,
+              "pitch": 68,
+              "velocity": 0.7086614173228346
+            },
+            {
+              "id": "score-note-1",
+              "step": 4,
+              "length": 1,
+              "pitch": 75,
+              "velocity": 0.7086614173228346
+            },
+            {
+              "id": "score-note-2",
+              "step": 4,
+              "length": 1,
+              "pitch": 63,
+              "velocity": 0.7086614173228346
+            },
+            {
+              "id": "score-note-3",
+              "step": 5,
+              "length": 1,
+              "pitch": 68,
+              "velocity": 0.7086614173228346
+            },
+            {
+              "id": "score-note-4",
+              "step": 6,
+              "length": 1,
+              "pitch": 72,
+              "velocity": 0.7086614173228346
+            },
+            {
+              "id": "score-note-5",
+              "step": 7,
+              "length": 2,
+              "pitch": 75,
+              "velocity": 0.7086614173228346
+            },
+            {
+              "id": "score-note-6",
+              "step": 7,
+              "length": 2,
+              "pitch": 63,
+              "velocity": 0.7086614173228346
+            },
+            {
+              "id": "score-note-7",
+              "step": 9,
+              "length": 1,
+              "pitch": 67,
+              "velocity": 0.7086614173228346
+            },
+            {
+              "id": "score-note-8",
+              "step": 10,
+              "length": 1,
+              "pitch": 63,
+              "velocity": 0.7086614173228346
+            },
+            {
+              "id": "score-note-9",
+              "step": 10,
+              "length": 1,
+              "pitch": 75,
+              "velocity": 0.7086614173228346
+            },
+            {
+              "id": "score-note-10",
+              "step": 11,
+              "length": 1,
+              "pitch": 67,
+              "velocity": 0.7086614173228346
+            },
+            {
+              "id": "score-note-11",
+              "step": 12,
+              "length": 1,
+              "pitch": 70,
+              "velocity": 0.7086614173228346
+            },
+            {
+              "id": "score-note-12",
+              "step": 13,
+              "length": 5,
+              "pitch": 75,
+              "velocity": 0.7086614173228346
+            },
+            {
+              "id": "score-note-13",
+              "step": 13,
+              "length": 5,
+              "pitch": 63,
+              "velocity": 0.7086614173228346
+            },
+            {
+              "id": "score-note-14",
+              "step": 19,
+              "length": 1,
+              "pitch": 68,
+              "velocity": 0.7086614173228346
+            },
+            {
+              "id": "score-note-15",
+              "step": 20,
+              "length": 1,
+              "pitch": 75,
+              "velocity": 0.7086614173228346
+            },
+            {
+              "id": "score-note-16",
+              "step": 20,
+              "length": 1,
+              "pitch": 63,
+              "velocity": 0.7086614173228346
+            },
+            {
+              "id": "score-note-17",
+              "step": 21,
+              "length": 1,
+              "pitch": 68,
+              "velocity": 0.7086614173228346
+            },
+            {
+              "id": "score-note-18",
+              "step": 22,
+              "length": 1,
+              "pitch": 72,
+              "velocity": 0.7086614173228346
+            },
+            {
+              "id": "score-note-19",
+              "step": 23,
+              "length": 2,
+              "pitch": 75,
+              "velocity": 0.7086614173228346
+            },
+            {
+              "id": "score-note-20",
+              "step": 23,
+              "length": 2,
+              "pitch": 63,
+              "velocity": 0.7086614173228346
+            },
+            {
+              "id": "score-note-21",
+              "step": 25,
+              "length": 1,
+              "pitch": 67,
+              "velocity": 0.7086614173228346
+            },
+            {
+              "id": "score-note-22",
+              "step": 26,
+              "length": 1,
+              "pitch": 75,
+              "velocity": 0.7086614173228346
+            },
+            {
+              "id": "score-note-23",
+              "step": 26,
+              "length": 1,
+              "pitch": 63,
+              "velocity": 0.7086614173228346
+            },
+            {
+              "id": "score-note-24",
+              "step": 27,
+              "length": 1,
+              "pitch": 67,
+              "velocity": 0.7086614173228346
+            },
+            {
+              "id": "score-note-25",
+              "step": 28,
+              "length": 1,
+              "pitch": 70,
+              "velocity": 0.7086614173228346
+            },
+            {
+              "id": "score-note-26",
+              "step": 29,
+              "length": 3,
+              "pitch": 75,
+              "velocity": 0.7086614173228346
+            },
+            {
+              "id": "score-note-27",
+              "step": 29,
+              "length": 3,
+              "pitch": 63,
+              "velocity": 0.7086614173228346
+            }
+          ]
+        }
+      },
+      "enabled": {
+        "score-0": true
+      }
+    },
+    {
+      "id": "score-part-1",
+      "name": "down:",
+      "role": "harmony",
+      "instrument": "piano",
+      "volume": 0.65,
+      "pan": -0.15,
+      "space": 0.12,
+      "brightness": 0.55,
+      "muted": false,
+      "solo": false,
+      "locked": true,
+      "patterns": {
+        "score-0": {
+          "bars": 2,
+          "notes": [
+            {
+              "id": "score-note-0",
+              "step": 0,
+              "length": 2,
+              "pitch": 51,
+              "velocity": 0.7086614173228346
+            },
+            {
+              "id": "score-note-1",
+              "step": 0,
+              "length": 2,
+              "pitch": 39,
+              "velocity": 0.7086614173228346
+            },
+            {
+              "id": "score-note-2",
+              "step": 2,
+              "length": 2,
+              "pitch": 56,
+              "velocity": 0.7086614173228346
+            },
+            {
+              "id": "score-note-3",
+              "step": 2,
+              "length": 2,
+              "pitch": 44,
+              "velocity": 0.7086614173228346
+            },
+            {
+              "id": "score-note-4",
+              "step": 4,
+              "length": 2,
+              "pitch": 60,
+              "velocity": 0.7086614173228346
+            },
+            {
+              "id": "score-note-5",
+              "step": 4,
+              "length": 2,
+              "pitch": 56,
+              "velocity": 0.7086614173228346
+            },
+            {
+              "id": "score-note-6",
+              "step": 4,
+              "length": 2,
+              "pitch": 51,
+              "velocity": 0.7086614173228346
+            },
+            {
+              "id": "score-note-7",
+              "step": 6,
+              "length": 2,
+              "pitch": 51,
+              "velocity": 0.7086614173228346
+            },
+            {
+              "id": "score-note-8",
+              "step": 6,
+              "length": 2,
+              "pitch": 56,
+              "velocity": 0.7086614173228346
+            },
+            {
+              "id": "score-note-9",
+              "step": 6,
+              "length": 2,
+              "pitch": 60,
+              "velocity": 0.7086614173228346
+            },
+            {
+              "id": "score-note-10",
+              "step": 8,
+              "length": 2,
+              "pitch": 57,
+              "velocity": 0.7086614173228346
+            },
+            {
+              "id": "score-note-11",
+              "step": 8,
+              "length": 2,
+              "pitch": 45,
+              "velocity": 0.7086614173228346
+            },
+            {
+              "id": "score-note-12",
+              "step": 10,
+              "length": 2,
+              "pitch": 58,
+              "velocity": 0.7086614173228346
+            },
+            {
+              "id": "score-note-13",
+              "step": 10,
+              "length": 2,
+              "pitch": 46,
+              "velocity": 0.7086614173228346
+            },
+            {
+              "id": "score-note-14",
+              "step": 12,
+              "length": 2,
+              "pitch": 61,
+              "velocity": 0.7086614173228346
+            },
+            {
+              "id": "score-note-15",
+              "step": 12,
+              "length": 2,
+              "pitch": 55,
+              "velocity": 0.7086614173228346
+            },
+            {
+              "id": "score-note-16",
+              "step": 12,
+              "length": 2,
+              "pitch": 51,
+              "velocity": 0.7086614173228346
+            },
+            {
+              "id": "score-note-17",
+              "step": 14,
+              "length": 2,
+              "pitch": 51,
+              "velocity": 0.7086614173228346
+            },
+            {
+              "id": "score-note-18",
+              "step": 14,
+              "length": 2,
+              "pitch": 55,
+              "velocity": 0.7086614173228346
+            },
+            {
+              "id": "score-note-19",
+              "step": 14,
+              "length": 2,
+              "pitch": 61,
+              "velocity": 0.7086614173228346
+            },
+            {
+              "id": "score-note-20",
+              "step": 16,
+              "length": 2,
+              "pitch": 51,
+              "velocity": 0.7086614173228346
+            },
+            {
+              "id": "score-note-21",
+              "step": 16,
+              "length": 2,
+              "pitch": 39,
+              "velocity": 0.7086614173228346
+            },
+            {
+              "id": "score-note-22",
+              "step": 18,
+              "length": 2,
+              "pitch": 56,
+              "velocity": 0.7086614173228346
+            },
+            {
+              "id": "score-note-23",
+              "step": 18,
+              "length": 2,
+              "pitch": 44,
+              "velocity": 0.7086614173228346
+            },
+            {
+              "id": "score-note-24",
+              "step": 20,
+              "length": 2,
+              "pitch": 60,
+              "velocity": 0.7086614173228346
+            },
+            {
+              "id": "score-note-25",
+              "step": 20,
+              "length": 2,
+              "pitch": 56,
+              "velocity": 0.7086614173228346
+            },
+            {
+              "id": "score-note-26",
+              "step": 20,
+              "length": 2,
+              "pitch": 51,
+              "velocity": 0.7086614173228346
+            },
+            {
+              "id": "score-note-27",
+              "step": 22,
+              "length": 2,
+              "pitch": 51,
+              "velocity": 0.7086614173228346
+            },
+            {
+              "id": "score-note-28",
+              "step": 22,
+              "length": 2,
+              "pitch": 56,
+              "velocity": 0.7086614173228346
+            },
+            {
+              "id": "score-note-29",
+              "step": 22,
+              "length": 2,
+              "pitch": 60,
+              "velocity": 0.7086614173228346
+            },
+            {
+              "id": "score-note-30",
+              "step": 24,
+              "length": 2,
+              "pitch": 57,
+              "velocity": 0.7086614173228346
+            },
+            {
+              "id": "score-note-31",
+              "step": 24,
+              "length": 2,
+              "pitch": 45,
+              "velocity": 0.7086614173228346
+            },
+            {
+              "id": "score-note-32",
+              "step": 26,
+              "length": 2,
+              "pitch": 58,
+              "velocity": 0.7086614173228346
+            },
+            {
+              "id": "score-note-33",
+              "step": 26,
+              "length": 2,
+              "pitch": 46,
+              "velocity": 0.7086614173228346
+            },
+            {
+              "id": "score-note-34",
+              "step": 28,
+              "length": 2,
+              "pitch": 61,
+              "velocity": 0.7086614173228346
+            },
+            {
+              "id": "score-note-35",
+              "step": 28,
+              "length": 2,
+              "pitch": 55,
+              "velocity": 0.7086614173228346
+            },
+            {
+              "id": "score-note-36",
+              "step": 28,
+              "length": 2,
+              "pitch": 51,
+              "velocity": 0.7086614173228346
+            },
+            {
+              "id": "score-note-37",
+              "step": 30,
+              "length": 2,
+              "pitch": 61,
+              "velocity": 0.7086614173228346
+            },
+            {
+              "id": "score-note-38",
+              "step": 30,
+              "length": 2,
+              "pitch": 55,
+              "velocity": 0.7086614173228346
+            },
+            {
+              "id": "score-note-39",
+              "step": 30,
+              "length": 2,
+              "pitch": 51,
+              "velocity": 0.7086614173228346
+            }
+          ]
+        }
+      },
+      "enabled": {
+        "score-0": true
+      }
+    }
+  ],
+  "library": [],
+  "notes": "Public domain score edition (Mutopia)\nSource: https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=23\nPublic domain score edition (Mutopia)\nEditable excerpt: quarter beats 0–8. Timing retained on Jago’s four-beat grid. Fixed playback tempo 180 BPM; source tempo changes are not reproduced.",
+  "createdBy": "Jago Music + SFX Studio",
+  "fadeIn": 0,
+  "fadeOut": 0.2,
+  "scoreSource": {
+    "name": "Maple Leaf Rag",
+    "rights": "Public domain score edition (Mutopia)",
+    "url": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=23"
+  }
+}
