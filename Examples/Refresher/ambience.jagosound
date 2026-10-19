@@ -1,0 +1,169 @@
+{
+  "type": "custom",
+  "seed": "showcase-ambience",
+  "duration": 5.3850450925529,
+  "size": 0.5,
+  "tone": 0.5,
+  "texture": 0,
+  "rate": 0.5,
+  "space": 0.18,
+  "volume": 0.65,
+  "loop": true,
+  "surface": "wood",
+  "action": "both",
+  "normalize": true,
+  "variation": 0.35,
+  "distance": 0,
+  "resonance": 0.5,
+  "label": "Drifting mineral air",
+  "ingredients": [
+    {
+      "id": "design-0",
+      "name": "Dark grain",
+      "kind": "noise",
+      "enabled": true,
+      "offset": 0,
+      "duration": 5.3850450925529,
+      "level": 0.45,
+      "pan": -0.55,
+      "frequency": 61.10825825482607,
+      "wave": "sine",
+      "colour": "brown",
+      "cutoff": 430.9709015651606,
+      "filter": "lowpass",
+      "drive": 0,
+      "pitch": 0,
+      "volumeCurve": [
+        {
+          "x": 0,
+          "y": 0.45
+        },
+        {
+          "x": 0.25,
+          "y": 0.3997011321596801
+        },
+        {
+          "x": 0.6,
+          "y": 0.3874767508357763
+        },
+        {
+          "x": 1,
+          "y": 0.45
+        }
+      ],
+      "pitchCurve": [
+        {
+          "x": 0,
+          "y": 0.5
+        },
+        {
+          "x": 0.5,
+          "y": 0.51
+        },
+        {
+          "x": 1,
+          "y": 0.5
+        }
+      ]
+    },
+    {
+      "id": "design-1",
+      "name": "High air",
+      "kind": "noise",
+      "enabled": true,
+      "offset": 0,
+      "duration": 5.3850450925529,
+      "level": 0.45,
+      "pan": 0.55,
+      "frequency": 70.76112990500405,
+      "wave": "sine",
+      "colour": "pink",
+      "cutoff": 3198.165338812396,
+      "filter": "bandpass",
+      "drive": 0,
+      "pitch": 0,
+      "volumeCurve": [
+        {
+          "x": 0,
+          "y": 0.45
+        },
+        {
+          "x": 0.25,
+          "y": 0.6433719889260828
+        },
+        {
+          "x": 0.6,
+          "y": 0.32375933004077523
+        },
+        {
+          "x": 1,
+          "y": 0.45
+        }
+      ],
+      "pitchCurve": [
+        {
+          "x": 0,
+          "y": 0.5
+        },
+        {
+          "x": 0.5,
+          "y": 0.51
+        },
+        {
+          "x": 1,
+          "y": 0.5
+        }
+      ]
+    },
+    {
+      "id": "design-2",
+      "name": "Low harmonic",
+      "kind": "tone",
+      "enabled": true,
+      "offset": 0,
+      "duration": 5.3850450925529,
+      "level": 0.18,
+      "pan": 0,
+      "frequency": 69.8258915846236,
+      "wave": "sine",
+      "colour": "pink",
+      "cutoff": 844.204977247864,
+      "filter": "lowpass",
+      "drive": 0,
+      "pitch": 0,
+      "volumeCurve": [
+        {
+          "x": 0,
+          "y": 0.45
+        },
+        {
+          "x": 0.25,
+          "y": 0.39536880264058705
+        },
+        {
+          "x": 0.6,
+          "y": 0.32118672302458434
+        },
+        {
+          "x": 1,
+          "y": 0.45
+        }
+      ],
+      "pitchCurve": [
+        {
+          "x": 0,
+          "y": 0.5
+        },
+        {
+          "x": 0.5,
+          "y": 0.51
+        },
+        {
+          "x": 1,
+          "y": 0.5
+        }
+      ]
+    }
+  ],
+  "characterFamily": "ambience"
+}

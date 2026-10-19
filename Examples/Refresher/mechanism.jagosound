@@ -1,0 +1,247 @@
+{
+  "type": "custom",
+  "seed": "showcase-mechanism",
+  "duration": 0.6978618663735687,
+  "size": 0.5,
+  "tone": 0.5,
+  "texture": 0,
+  "rate": 0.5,
+  "space": 0.04,
+  "volume": 0.65,
+  "loop": false,
+  "surface": "wood",
+  "action": "both",
+  "normalize": true,
+  "variation": 0.35,
+  "distance": 0,
+  "resonance": 0.5,
+  "label": "Pocket mechanism",
+  "ingredients": [
+    {
+      "id": "design-0",
+      "name": "Contact 1",
+      "kind": "impulse",
+      "enabled": true,
+      "offset": 0,
+      "duration": 0.10963901730254293,
+      "level": 0.48016393259167667,
+      "pan": -0.14045714016538113,
+      "frequency": 217.20274416729808,
+      "wave": "sine",
+      "colour": "brown",
+      "cutoff": 2665.659210458398,
+      "filter": "lowpass",
+      "drive": 0,
+      "pitch": 0,
+      "volumeCurve": [
+        {
+          "x": 0,
+          "y": 0
+        },
+        {
+          "x": 0.025,
+          "y": 1
+        },
+        {
+          "x": 0.15,
+          "y": 0.2
+        },
+        {
+          "x": 1,
+          "y": 0
+        }
+      ],
+      "pitchCurve": [
+        {
+          "x": 0,
+          "y": 0.5
+        },
+        {
+          "x": 1,
+          "y": 0.5
+        }
+      ]
+    },
+    {
+      "id": "design-1",
+      "name": "Latch texture",
+      "kind": "noise",
+      "enabled": true,
+      "offset": 0.111657898619771,
+      "duration": 0.0640933906007558,
+      "level": 0.6130226735956967,
+      "pan": 0.15052884037140757,
+      "frequency": 148.10994408326223,
+      "wave": "sine",
+      "colour": "brown",
+      "cutoff": 4644.811443798244,
+      "filter": "bandpass",
+      "drive": 0,
+      "pitch": 0,
+      "volumeCurve": [
+        {
+          "x": 0,
+          "y": 0
+        },
+        {
+          "x": 0.025,
+          "y": 1
+        },
+        {
+          "x": 0.15,
+          "y": 0.2
+        },
+        {
+          "x": 1,
+          "y": 0
+        }
+      ],
+      "pitchCurve": [
+        {
+          "x": 0,
+          "y": 0.5
+        },
+        {
+          "x": 1,
+          "y": 0.5
+        }
+      ]
+    },
+    {
+      "id": "design-2",
+      "name": "Contact 3",
+      "kind": "impulse",
+      "enabled": true,
+      "offset": 0.223315797239542,
+      "duration": 0.15354580911342056,
+      "level": 0.6126801599748433,
+      "pan": -0.025638847495429218,
+      "frequency": 187.6145145157352,
+      "wave": "sine",
+      "colour": "brown",
+      "cutoff": 2501.553450524807,
+      "filter": "lowpass",
+      "drive": 0,
+      "pitch": 0,
+      "volumeCurve": [
+        {
+          "x": 0,
+          "y": 0
+        },
+        {
+          "x": 0.025,
+          "y": 1
+        },
+        {
+          "x": 0.15,
+          "y": 0.2
+        },
+        {
+          "x": 1,
+          "y": 0
+        }
+      ],
+      "pitchCurve": [
+        {
+          "x": 0,
+          "y": 0.5
+        },
+        {
+          "x": 1,
+          "y": 0.5
+        }
+      ]
+    },
+    {
+      "id": "design-3",
+      "name": "Latch texture",
+      "kind": "noise",
+      "enabled": true,
+      "offset": 0.334973695859313,
+      "duration": 0.09216031688731163,
+      "level": 0.44496550196781753,
+      "pan": -0.0893048025900498,
+      "frequency": 130.35638958681375,
+      "wave": "sine",
+      "colour": "brown",
+      "cutoff": 3608.355592750013,
+      "filter": "bandpass",
+      "drive": 0,
+      "pitch": 0,
+      "volumeCurve": [
+        {
+          "x": 0,
+          "y": 0
+        },
+        {
+          "x": 0.025,
+          "y": 1
+        },
+        {
+          "x": 0.15,
+          "y": 0.2
+        },
+        {
+          "x": 1,
+          "y": 0
+        }
+      ],
+      "pitchCurve": [
+        {
+          "x": 0,
+          "y": 0.5
+        },
+        {
+          "x": 1,
+          "y": 0.5
+        }
+      ]
+    },
+    {
+      "id": "design-4",
+      "name": "Contact 5",
+      "kind": "impulse",
+      "enabled": true,
+      "offset": 0.446631594479084,
+      "duration": 0.08342682709917426,
+      "level": 0.7010933276265859,
+      "pan": 0.00762567762285471,
+      "frequency": 410.2063022670336,
+      "wave": "sine",
+      "colour": "brown",
+      "cutoff": 3518.7226820737123,
+      "filter": "lowpass",
+      "drive": 0,
+      "pitch": 0,
+      "volumeCurve": [
+        {
+          "x": 0,
+          "y": 0
+        },
+        {
+          "x": 0.025,
+          "y": 1
+        },
+        {
+          "x": 0.15,
+          "y": 0.2
+        },
+        {
+          "x": 1,
+          "y": 0
+        }
+      ],
+      "pitchCurve": [
+        {
+          "x": 0,
+          "y": 0.5
+        },
+        {
+          "x": 1,
+          "y": 0.5
+        }
+      ]
+    }
+  ],
+  "characterFamily": "mechanism"
+}

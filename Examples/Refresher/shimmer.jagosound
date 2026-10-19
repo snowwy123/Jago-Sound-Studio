@@ -1,0 +1,247 @@
+{
+  "type": "custom",
+  "seed": "showcase-shimmer",
+  "duration": 3.257579484023154,
+  "size": 0.5,
+  "tone": 0.5,
+  "texture": 0,
+  "rate": 0.5,
+  "space": 0.3,
+  "volume": 0.65,
+  "loop": false,
+  "surface": "wood",
+  "action": "both",
+  "normalize": true,
+  "variation": 0.35,
+  "distance": 0,
+  "resonance": 0.5,
+  "label": "Prismatic chime",
+  "ingredients": [
+    {
+      "id": "design-0",
+      "name": "Partial 1",
+      "kind": "tone",
+      "enabled": true,
+      "offset": 0.02150852374266833,
+      "duration": 3.2360709602804856,
+      "level": 0.32,
+      "pan": -0.7,
+      "frequency": 180,
+      "wave": "sine",
+      "colour": "white",
+      "cutoff": 12000,
+      "filter": "lowpass",
+      "drive": 0,
+      "pitch": 0,
+      "volumeCurve": [
+        {
+          "x": 0,
+          "y": 0
+        },
+        {
+          "x": 0.015,
+          "y": 1
+        },
+        {
+          "x": 0.25,
+          "y": 0.3
+        },
+        {
+          "x": 1,
+          "y": 0
+        }
+      ],
+      "pitchCurve": [
+        {
+          "x": 0,
+          "y": 0.5
+        },
+        {
+          "x": 1,
+          "y": 0.5
+        }
+      ]
+    },
+    {
+      "id": "design-1",
+      "name": "Partial 2",
+      "kind": "tone",
+      "enabled": true,
+      "offset": 0.12097471842076629,
+      "duration": 3.1366047656023874,
+      "level": 0.24615384615384614,
+      "pan": -0.35,
+      "frequency": 214.0572807004898,
+      "wave": "sine",
+      "colour": "white",
+      "cutoff": 12000,
+      "filter": "lowpass",
+      "drive": 0,
+      "pitch": 0,
+      "volumeCurve": [
+        {
+          "x": 0,
+          "y": 0
+        },
+        {
+          "x": 0.015,
+          "y": 1
+        },
+        {
+          "x": 0.25,
+          "y": 0.3
+        },
+        {
+          "x": 1,
+          "y": 0
+        }
+      ],
+      "pitchCurve": [
+        {
+          "x": 0,
+          "y": 0.5
+        },
+        {
+          "x": 1,
+          "y": 0.5
+        }
+      ]
+    },
+    {
+      "id": "design-2",
+      "name": "Partial 3",
+      "kind": "tone",
+      "enabled": true,
+      "offset": 0.16959127261769028,
+      "duration": 3.0575794840231536,
+      "level": 0.19999999999999998,
+      "pan": 0,
+      "frequency": 269.6952738378027,
+      "wave": "sine",
+      "colour": "white",
+      "cutoff": 12000,
+      "filter": "lowpass",
+      "drive": 0,
+      "pitch": 0,
+      "volumeCurve": [
+        {
+          "x": 0,
+          "y": 0
+        },
+        {
+          "x": 0.015,
+          "y": 1
+        },
+        {
+          "x": 0.25,
+          "y": 0.3
+        },
+        {
+          "x": 1,
+          "y": 0
+        }
+      ],
+      "pitchCurve": [
+        {
+          "x": 0,
+          "y": 0.5
+        },
+        {
+          "x": 1,
+          "y": 0.5
+        }
+      ]
+    },
+    {
+      "id": "design-3",
+      "name": "Partial 4",
+      "kind": "tone",
+      "enabled": true,
+      "offset": 0.2498615098837763,
+      "duration": 2.957579484023154,
+      "level": 0.16842105263157897,
+      "pan": 0.34999999999999987,
+      "frequency": 320.72353853052215,
+      "wave": "sine",
+      "colour": "white",
+      "cutoff": 12000,
+      "filter": "lowpass",
+      "drive": 0,
+      "pitch": 0,
+      "volumeCurve": [
+        {
+          "x": 0,
+          "y": 0
+        },
+        {
+          "x": 0.015,
+          "y": 1
+        },
+        {
+          "x": 0.25,
+          "y": 0.3
+        },
+        {
+          "x": 1,
+          "y": 0
+        }
+      ],
+      "pitchCurve": [
+        {
+          "x": 0,
+          "y": 0.5
+        },
+        {
+          "x": 1,
+          "y": 0.5
+        }
+      ]
+    },
+    {
+      "id": "design-4",
+      "name": "Partial 5",
+      "kind": "tone",
+      "enabled": true,
+      "offset": 0.3501301504345611,
+      "duration": 2.857579484023154,
+      "level": 0.14545454545454545,
+      "pan": 0.7,
+      "frequency": 404.0863373913743,
+      "wave": "sine",
+      "colour": "white",
+      "cutoff": 12000,
+      "filter": "lowpass",
+      "drive": 0,
+      "pitch": 0,
+      "volumeCurve": [
+        {
+          "x": 0,
+          "y": 0
+        },
+        {
+          "x": 0.015,
+          "y": 1
+        },
+        {
+          "x": 0.25,
+          "y": 0.3
+        },
+        {
+          "x": 1,
+          "y": 0
+        }
+      ],
+      "pitchCurve": [
+        {
+          "x": 0,
+          "y": 0.5
+        },
+        {
+          "x": 1,
+          "y": 0.5
+        }
+      ]
+    }
+  ],
+  "characterFamily": "shimmer"
+}

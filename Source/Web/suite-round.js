@@ -54,7 +54,7 @@ button.onclick=()=>{
 
 
 
- const make=(shuffle,forcedPace=null,forcedGroove=null)=>{try{let options={approach:$('songApproach')?.value||'original',contrast:Number($('songContrast')?.value??.65),development:+$('phraseDevelopment').value,surpriseLocks:Object.fromEntries([...document.querySelectorAll('[data-song-lock]')].map(e=>[e.dataset.songLock,e.checked])),...Object.fromEntries(Object.entries(fields).map(([key,id])=>[key,$(id).value])),length:Number($('songLength').value),shape:$('songShape').value,seed:$('songSeed').value.trim()||seed(),drums:Number($('songDrums').value)/100,roles:[...document.querySelectorAll('[data-song-role]:checked')].map(e=>e.dataset.songRole)};
+ const make=(shuffle,forcedPace=null,forcedGroove=null)=>{try{let options={coordinateParts:$('coordinateParts')?.checked!==false,approach:$('songApproach')?.value||'original',contrast:Number($('songContrast')?.value??.65),development:+$('phraseDevelopment').value,surpriseLocks:Object.fromEntries([...document.querySelectorAll('[data-song-lock]')].map(e=>[e.dataset.songLock,e.checked])),...Object.fromEntries(Object.entries(fields).map(([key,id])=>[key,$(id).value])),length:Number($('songLength').value),shape:$('songShape').value,seed:$('songSeed').value.trim()||seed(),drums:Number($('songDrums').value)/100,roles:[...document.querySelectorAll('[data-song-role]:checked')].map(e=>e.dataset.songRole)};
 
 
 
